@@ -762,4 +762,100 @@ article("/supplements/nmn-nad-supplements-women/", "/supplements/", "Supplements
   ("University of Colorado Boulder (press release). A pill that staves off aging? It&rsquo;s on the horizon (March 28, 2018), on Martens et al., Nature Communications 2018", "https://www.colorado.edu/today/2018/03/28/pill-staves-aging-its-horizon")]),
 
 
+article("/hair/minoxidil-for-women/", "/hair/", "Hair",
+ "Minoxidil for Women: Topical vs Oral, What Trials Show",
+ "Minoxidil for women: topical vs oral, what the trials show",
+ "Topical minoxidil is the only FDA-approved drug for female pattern hair loss. What trials found, the early shed, and what&rsquo;s known about oral pills.",
+ "2026-11-15",
+ "If your part is widening or your ponytail feels thinner, minoxidil is probably the first treatment you&rsquo;ll hear about. It comes as a scalp foam or solution, and sometimes as a low-dose pill. Here&rsquo;s what the labels and trials say about each.",
+ "Topical minoxidil is the only medicine the FDA has approved for female pattern hair loss. In a 48-week trial of 381 women, both the 5% and 2% solutions beat placebo, and MedlinePlus says it regrows hair in about 1 in 4 or 5 women and slows loss in most. <b>Low-dose oral minoxidil is used off-label for hair loss: small trials in women look promising, but it isn&rsquo;t FDA-approved for this use and has different side effects.</b>",
+ "human-trial",
+ [("Best evidence", "A 48-week randomized, double-blind, placebo-controlled trial of 381 women (Lucky et al., 2004) for topical minoxidil; small randomized trials summarized in a 2023 review for oral minoxidil"),
+  ("Women included?", "Yes. All the hair-loss trials described here studied women with female pattern hair loss; the topical trial enrolled women aged 18&ndash;49"),
+  ("Dose or protocol tested", "Topical: 5% or 2% solution twice daily for 48 weeks. Oral (off-label): 0.25 mg to 1.25 mg a day for 6 to 24 months in the trials reviewed"),
+  ("Bottom line", "Topical minoxidil has FDA approval and placebo-controlled evidence in women. Oral minoxidil is promising but off-label, with smaller and shorter studies. Both only work while you keep using them")],
+ """<h2>What is minoxidil, and how is it approved for women?</h2>
+<p>Minoxidil is also a prescription blood pressure pill, and extra hair growth is a well-known side effect of the tablets. The two forms have very different official status:</p>
+<ul>
+<li><b>Topical minoxidil</b> (foam or solution, sold over the counter). According to MedlinePlus, the National Library of Medicine&rsquo;s health site, it&rsquo;s the only medicine the FDA has approved for female pattern hair loss. MedlinePlus notes that the 2% solution or 5% foam is what&rsquo;s used for women.</li>
+<li><b>Oral minoxidil</b> (prescription tablets). The FDA label approves it only for severe high blood pressure that hasn&rsquo;t responded to a diuretic plus two other blood pressure drugs. Using it for hair loss is off-label, a 2023 review in <i>Skin Appendage Disorders</i> confirms.</li>
+</ul>
+<p>Female pattern hair loss is gradual thinning over the top of the head, usually with the front hairline kept. If your loss looks different, start with <a href="/hair/female-hair-loss-causes/">the main causes of hair loss in women</a>. <b>Minoxidil is labeled for pattern thinning, not for sudden or patchy loss.</b></p>
+
+<h2>Topical minoxidil for women: what the trial found</h2>
+<p>The largest placebo-controlled trial in women was published in the <i>Journal of the American Academy of Dermatology</i> in 2004 (Lucky et al.).</p>
+<ul>
+<li><b>Who:</b> 381 women aged 18 to 49 with female pattern hair loss, at multiple centers.</li>
+<li><b>Design:</b> randomized and double-blind. 153 women used 5% minoxidil solution, 154 used 2%, and 74 used a placebo solution, each twice a day.</li>
+<li><b>How long:</b> 48 weeks.</li>
+<li><b>Measured:</b> the change in the count of non-fine (nonvellus) hairs, plus the women&rsquo;s own and the investigators&rsquo; ratings of growth.</li>
+<li><b>Found:</b> 5% beat placebo on all three measures. 2% beat placebo on hair count and investigator rating, but not on the women&rsquo;s own rating. Women rated 5% as more helpful than 2%.</li>
+</ul>
+<p>Itching, scalp irritation and unwanted hair growth on the face or body were more common with 5% than with 2% or placebo. The authors found no signs of effects elsewhere in the body. The trial was funded by Pfizer (formerly Pharmacia and Upjohn).</p>
+<p>MedlinePlus puts the real-world picture plainly: <b>minoxidil may regrow hair in about 1 in 4 or 5 women, and may slow or stop loss in most.</b> It slows thinning more reliably than it restores a full head of hair.</p>
+
+<h2>The shedding phase: why hair can fall out at first</h2>
+<p>Many women quit in the first weeks because they see more hair in the brush. The consumer leaflet on a 5% foam for women, posted on the NIH&rsquo;s DailyMed label database, warns that shedding may increase for up to 2 weeks after starting. It calls this expected and temporary, and says to see a doctor if it goes on longer.</p>
+<p>Results take patience. The same label says regrowth may show at about 3 months, and some women need at least 6 months. MedlinePlus says to allow at least 4 months, and possibly up to a year. The label also advises stopping and asking a doctor if there&rsquo;s no regrowth after 6 months.</p>
+<p><b>Minoxidil works only while you use it.</b> The label says regrown hair is likely to be lost within 3 to 4 months of stopping.</p>
+
+<h2>Who the label says shouldn&rsquo;t use topical minoxidil</h2>
+<p>The over-the-counter label for women lists several situations where it shouldn&rsquo;t be used without a doctor, because the hair loss may have another cause:</p>
+<ul>
+<li>Hair loss that is sudden, patchy or linked to childbirth, or a cause you don&rsquo;t know</li>
+<li>No family history of hair loss</li>
+<li>A red, inflamed, infected, irritated or painful scalp</li>
+<li>Under 18, or using other medicines on the scalp</li>
+<li>Heart disease (ask a doctor first)</li>
+<li>Pregnancy or breastfeeding (the label says it may be harmful)</li>
+</ul>
+<p>It also says to stop and ask a doctor for chest pain, a fast heartbeat, faintness or dizziness, sudden weight gain, swollen hands or feet, scalp irritation, or unwanted facial hair. Infants have grown extra hair after skin contact with a caregiver&rsquo;s treated scalp; the label says it went away.</p>
+
+<h2>Oral minoxidil for women: what&rsquo;s known so far</h2>
+<p>Low-dose oral minoxidil, often called LDOM, is prescribed off-label for hair loss. The 2023 review by Gupta and colleagues summarizes the trials in women with pattern hair loss:</p>
+<table>
+<tr><th>Study</th><th>Design</th><th>What was compared</th><th>Result</th></tr>
+<tr><td>Ramos et al., 2020</td><td>Randomized, open-label (not blinded), 24 weeks</td><td>1 mg oral vs 5% topical</td><td>Trend favoring oral; difference not statistically significant</td></tr>
+<tr><td>Vahabi-Amlashi et al., 2021</td><td>Randomized pilot, 6 months</td><td>0.25 mg oral vs 2% topical</td><td>No significant difference</td></tr>
+<tr><td>Nascimento e Silva et al., 2022</td><td>Randomized, double-blind, 24 weeks</td><td>0.25 mg vs 1 mg oral</td><td>1 mg more effective</td></tr>
+</table>
+<p>These are the doses the studies tested, not recommendations. <b>None of these trials compared oral minoxidil with a placebo, and all were small and lasted a year or less.</b></p>
+
+<h3>Side effects of oral minoxidil</h3>
+<ul>
+<li><b>Unwanted hair growth</b> (on the face or body) is the most common. In a 1,404-patient study summarized in the review, 20.1% of women had it, at a median dose of about 1.1 mg a day.</li>
+<li><b>Dizziness, fast heartbeat and fluid swelling</b> were less common. In one small study, 3 of 12 women had swelling of the limbs.</li>
+<li><b>Pregnancy:</b> the review says oral minoxidil isn&rsquo;t recommended in pregnancy or breastfeeding, and lists heart rhythm problems, kidney disease and low blood pressure among reasons for caution.</li>
+</ul>
+<p>For context, the FDA label for the blood pressure version carries a boxed warning about fluid building up around the heart. At blood pressure doses, about 3% of patients not on dialysis developed it, temporary swelling occurred in 7%, and about 80% had extra body hair growth. Those numbers come from people with severe high blood pressure, not from women on low doses for hair. <b>They&rsquo;re why oral minoxidil needs a prescriber who knows your heart and blood pressure history.</b></p>
+
+<h2>Topical vs oral minoxidil for women at a glance</h2>
+<table>
+<tr><th></th><th>Topical (foam or solution)</th><th>Oral (low-dose tablet)</th></tr>
+<tr><td>FDA status for hair loss</td><td>Approved for women, over the counter</td><td>Not approved; off-label prescription</td></tr>
+<tr><td>Best evidence in women</td><td>48-week placebo-controlled trial, 381 women</td><td>Small randomized trials, 24 weeks to 6 months</td></tr>
+<tr><td>Common side effects</td><td>Scalp itching, dryness, flaking, irritation; facial hair</td><td>Facial and body hair; less often dizziness, fast heartbeat, swelling</td></tr>
+<tr><td>Pregnancy or breastfeeding</td><td>Label says it may be harmful</td><td>Review says it isn&rsquo;t recommended</td></tr>
+</table>
+
+<h2>What this means for you</h2>
+<p>If a dermatologist confirms female pattern hair loss, topical minoxidil is the treatment with FDA approval and placebo-controlled evidence in women. Expect a possible shed early on, give it months, and know it&rsquo;s a long-term commitment. Oral minoxidil is a reasonable thing to ask about, but it&rsquo;s off-label and its evidence is thinner. For other options with lighter evidence, see <a href="/hair/rosemary-oil-hair-growth/">what the rosemary oil trial found</a>, and for lab causes worth ruling out first, <a href="/hair/iron-ferritin-hair-loss/">iron, ferritin and hair loss</a>.</p>
+<p>Questions to ask a board-certified dermatologist:</p>
+<ul>
+<li>Is this female pattern hair loss, or could shedding or another cause be part of it?</li>
+<li>Is topical minoxidil a good fit for me, and how will we judge whether it&rsquo;s working?</li>
+<li>Would oral minoxidil make sense for me, given my blood pressure, heart health and other medicines?</li>
+<li>What side effects should make me call you?</li>
+<li>What if I&rsquo;m planning a pregnancy or breastfeeding?</li>
+</ul>
+<p>Don&rsquo;t start, stop or change any prescription without the clinician who prescribes it. More in the <a href="/hair/">Hair</a> hub and our guide to <a href="/hair/hair-thinning-perimenopause/">hair thinning in perimenopause</a>.</p>""",
+ [("Lucky AW, Piacquadio DJ, Ditre CM, et al. A randomized, placebo-controlled trial of 5% and 2% topical minoxidil solutions in the treatment of female pattern hair loss. J Am Acad Dermatol, 2004;50(4):541&ndash;553 (abstract via UT Southwestern)", "https://utsouthwestern.elsevierpure.com/en/publications/a-randomized-placebo-controlled-trial-of-5-and-2-topical-minoxidi/"),
+  ("Gupta AK, Talukder M, Shemer A, Piraccini BM, Tosti A. Low-Dose Oral Minoxidil for Alopecia: A Comprehensive Review. Skin Appendage Disord, 2023;9(6):423&ndash;437", "https://pmc.ncbi.nlm.nih.gov/articles/PMC10806356/"),
+  ("DailyMed (National Library of Medicine). Label: Minoxidil 5% (for women) topical foam, Drug Facts and consumer information", "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=dbda95f2-11a8-4b2f-af45-b791342fff70"),
+  ("U.S. Food and Drug Administration. Loniten (minoxidil tablets) prescribing information, revised January 2015", "https://www.accessdata.fda.gov/drugsatfda_docs/label/2015/018154s026lbl.pdf"),
+  ("MedlinePlus Medical Encyclopedia. Female pattern baldness (reviewed January 28, 2026)", "https://medlineplus.gov/ency/article/001173.htm"),
+  ("MedlinePlus Drug Information. Minoxidil Topical", "https://medlineplus.gov/druginfo/meds/a689003.html")]),
+
+
+
 ]

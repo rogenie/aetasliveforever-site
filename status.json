@@ -1,5 +1,5 @@
 {
- "built": "2026-11-13",
+ "built": "2026-11-15",
  "cadence": "Daily. Mon/Fri: evergreen and trending articles across Body, Beauty and Longevity. Wed: research news when the scout finds one. Every other day, and any Mon/Wed/Fri left open: a Hair article (_src/TOPICS.md, \"Daily Hair\").",
  "items": [
   {
@@ -66,9 +66,11 @@
    "url": "https://parvaregina.com/supplements/nmn-nad-supplements-women/"
   },
   {
-   "date": "2026-11-14",
+   "date": "2026-11-15",
    "hub": "hair",
-   "status": "todo"
+   "status": "written",
+   "title": "Minoxidil for women: topical vs oral, what the trials show",
+   "url": "https://parvaregina.com/hair/minoxidil-for-women/"
   },
   {
    "date": "2026-11-15",

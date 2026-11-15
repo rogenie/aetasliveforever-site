@@ -116,11 +116,11 @@
    "url": "https://parvaregina.com/supplements/nmn-nad-supplements-women/"
   },
   {
-   "date": "2026-11-14",
+   "date": "2026-11-15",
    "hub": "hair",
    "path": "/hair/minoxidil-for-women/",
    "title": "Minoxidil for women: topical vs oral, what the trials show",
-   "status": "todo",
+   "status": "published",
    "kind": "evergreen",
    "brief": {
     "angle": "FDA status of topical minoxidil for women (labeling), the randomized trials and reviews in female pattern hair loss, the shedding phase, and what's known about low-dose oral minoxidil (off-label) from trials and reviews: side effects (hair on face, dizziness, fluid). Report tested doses only; no dose recommendations.",
@@ -128,7 +128,9 @@
      "/hair/",
      "/hair/female-hair-loss-causes/"
     ]
-   }
+   },
+   "url": "https://parvaregina.com/hair/minoxidil-for-women/",
+   "note": "Catch-up: originally dated 2026-11-14 (missed run); published 2026-11-15."
   },
   {
    "date": "2026-11-15",
