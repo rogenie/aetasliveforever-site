@@ -282,6 +282,28 @@
    "live_verified": false,
    "social_caption": true,
    "note": "On schedule. Science, Nature and PMC pages failed or returned a browser check, so the Yoshino trial was read via NIH Research Matters, WashU and the 2023 J Gerontol review; Martens 2018 via the review and CU Boulder release. FDA status confirmed from the Sept 29 and Dec 2, 2025 FDA letters. Live page not yet in search, so not fetched."
+  },
+  {
+   "date": "2026-11-15",
+   "at": "2026-11-15T06:08:39-08:00",
+   "result": "published",
+   "path": "/hair/minoxidil-for-women/",
+   "facts_checked": 46,
+   "removed": 8,
+   "live_verified": false,
+   "social_caption": true,
+   "note": "Catch-up for Nov 14 (missed run). PubMed and PMC returned browser checks and JAAD/Cochrane pages failed, so Lucky 2004 was read via the UT Southwestern abstract record and the oral trials via the 2023 Gupta review; the Blume-Peytavi foam trial and Cochrane review were not cited, and the Ramos sample size was left out. Live page not yet in search, so not fetched."
+  },
+  {
+   "date": "2026-11-15",
+   "at": "2026-11-15T06:08:39-08:00",
+   "result": "published",
+   "path": "/hair/iron-ferritin-hair-loss/",
+   "facts_checked": 41,
+   "removed": 6,
+   "live_verified": false,
+   "social_caption": true,
+   "note": "On schedule. Meta-analysis ferritin values left out (paper reports ng/dL, a unit inconsistency); JAAD pages (Olsen 2010, Trost 2006) failed to load and were not cited; AGA guideline cited without volume because the year/pages weren't confirmed on the page. Live page not yet in search, so not fetched."
   }
  ]
 }
