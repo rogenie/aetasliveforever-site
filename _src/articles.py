@@ -857,5 +857,86 @@ article("/hair/minoxidil-for-women/", "/hair/", "Hair",
   ("MedlinePlus Drug Information. Minoxidil Topical", "https://medlineplus.gov/druginfo/meds/a689003.html")]),
 
 
+article("/hair/iron-ferritin-hair-loss/", "/hair/", "Hair",
+ "Iron, Ferritin and Hair Loss in Women: What Labs Mean",
+ "Iron, ferritin and hair loss: what your labs mean",
+ "How low iron is linked to hair shedding in women, what a ferritin test measures, why the cutoffs differ, and why iron pills without testing carry risks.",
+ "2026-11-15",
+ "Ferritin is one of the first blood tests many women get when their hair starts shedding. The results can be confusing: a number your lab calls normal may be one some experts call low. Here&rsquo;s what the test measures and what the research does and doesn&rsquo;t show.",
+ "Studies pooled in a 2022 meta-analysis found that women with non-scarring hair loss have lower ferritin (stored iron) on average than women without it, but these studies show a link, not that low iron causes hair loss or that iron fixes it. <b>Ferritin cutoffs differ between labs and guidelines, so ask what threshold your clinician is using, and don&rsquo;t take iron without testing.</b>",
+ "human-obs",
+ [("Best evidence", "A 2022 meta-analysis of 36 observational studies (10,029 participants: 6,641 women with hair loss and 3,388 controls); a 2008 clinic study of 181 women"),
+  ("Women included?", "Yes. The meta-analysis included only women; the clinic study was all women, average age about 42"),
+  ("Dose or protocol tested", "None. These studies measured iron levels; they didn&rsquo;t test iron supplements"),
+  ("Bottom line", "Low iron stores are linked with hair loss in women, but whether raising them helps hair hasn&rsquo;t been settled by controlled trials. Testing comes first")],
+ """<h2>What does ferritin measure?</h2>
+<p>Ferritin is a protein that stores iron. MedlinePlus, the National Library of Medicine&rsquo;s health site, explains that a ferritin blood test indirectly shows how much iron your body has in reserve.</p>
+<p>Iron runs low in stages, according to the NIH Office of Dietary Supplements (ODS). First the stores drain, and ferritin drops. Next, red blood cell production starts to suffer. Only at the last stage does iron-deficiency anemia show up, with low hemoglobin. ODS notes that ferritin can pick up iron depletion at an early stage.</p>
+<p><b>That&rsquo;s why a normal blood count doesn&rsquo;t rule out low iron.</b> A StatPearls review on NIH&rsquo;s NCBI Bookshelf makes the same point: hemoglobin falls late.</p>
+<p>Your clinician may also order serum iron, total iron-binding capacity and transferrin saturation, which help fill in the picture.</p>
+
+<h2>Is low iron linked to hair loss in women?</h2>
+<p>Hair loss is on the symptom lists for iron deficiency in both MedlinePlus and StatPearls. The bigger question is how strong the link is.</p>
+<p>The largest analysis is a 2022 meta-analysis in <i>Skin Appendage Disorders</i> (Treister-Goltzman and colleagues):</p>
+<ul>
+<li><b>Who:</b> 36 studies published from 1988 to 2019, with 10,029 participants: 6,641 women with non-scarring hair loss and 3,388 women without it.</li>
+<li><b>Design:</b> 21 case-control and 15 cohort studies, all observational.</li>
+<li><b>Measured:</b> ferritin levels and how often iron-deficiency anemia occurred.</li>
+<li><b>Found:</b> women with hair loss had lower ferritin on average than women without it, including in a subgroup of premenopausal women. Iron-deficiency anemia wasn&rsquo;t more common in women with hair loss.</li>
+</ul>
+<p>The limits matter. The studies varied a lot in their results and used different definitions of iron deficiency. Most came from specialist referral clinics, which may not reflect women in general. <b>This kind of evidence shows a link; it can&rsquo;t show that low iron causes hair loss or that iron supplements fix it.</b></p>
+<p>Not every study agrees. A 2008 study in <i>Dermatology</i> (Bregy and Tr&uuml;eb) looked at 181 otherwise healthy women seen at a Zurich hair clinic between 2002 and 2005, with female pattern hair loss, diffuse shedding (telogen effluvium), or both. Their average age was about 42. Among women with ferritin above 10 ng/mL, ferritin wasn&rsquo;t related to how much hair was in the shedding phase. The authors concluded iron&rsquo;s role had probably been overestimated and that controlled trials of iron were needed.</p>
+
+<h2>Ferritin levels for hair loss: why the cutoffs differ</h2>
+<p>Here&rsquo;s where lab results get confusing. Different sources draw the line for &ldquo;low&rdquo; in different places. Ferritin is reported in ng/mL, which is the same as &micro;g/L.</p>
+<table>
+<tr><th>Source</th><th>Threshold</th><th>What it&rsquo;s for</th></tr>
+<tr><td>MedlinePlus</td><td>13&ndash;150 ng/mL</td><td>Typical normal range for females; ranges vary by lab</td></tr>
+<tr><td>StatPearls review (2026)</td><td>Below 30 ng/mL</td><td>Diagnosing absolute iron deficiency; 92% sensitive and 98% specific for absent bone marrow iron</td></tr>
+<tr><td>American Gastroenterological Association guideline</td><td>Below 45 ng/mL</td><td>Diagnosing iron deficiency in people who already have anemia</td></tr>
+<tr><td>Bregy and Tr&uuml;eb, 2008</td><td>Above 10 ng/mL</td><td>No link with shedding found above this level in their clinic</td></tr>
+</table>
+<p><b>A ferritin of 20 could be &ldquo;normal&rdquo; on one lab report and &ldquo;iron deficient&rdquo; by another standard.</b> Neither number was set specifically for hair. It&rsquo;s fair to ask your clinician which cutoff they&rsquo;re using and why.</p>
+<p>One more wrinkle: ferritin rises with inflammation. StatPearls notes it can be raised by chronic disease, inflammatory states and cancer, and MedlinePlus lists liver disease, autoimmune conditions such as rheumatoid arthritis and an overactive thyroid among causes of high ferritin. <b>So a normal ferritin can hide low iron if inflammation is pushing it up.</b> That&rsquo;s one reason clinicians look at several iron tests together.</p>
+
+<h2>Why women in their 30s and 40s run low on iron</h2>
+<ul>
+<li><b>Periods.</b> MedlinePlus lists heavy menstrual bleeding as a cause of low ferritin, and StatPearls names menstrual blood loss among the most common causes of iron deficiency in developed countries.</li>
+<li><b>Higher needs.</b> ODS sets the recommended intake at 18 mg a day for women 19 to 50, dropping to 8 mg a day from age 51. StatPearls notes that average intake for women of reproductive age is about 13 mg a day.</li>
+<li><b>Pregnancy and breastfeeding</b> raise iron needs, according to MedlinePlus.</li>
+<li><b>Absorption problems</b> such as celiac disease, Crohn disease or gastric bypass surgery.</li>
+<li><b>Diet.</b> Eating little iron-rich food, including some strict vegetarian diets.</li>
+</ul>
+<p>Low iron in an adult can also be a sign of hidden bleeding in the gut, which is why MedlinePlus lists tests to look for a source. It&rsquo;s a reason to find out <i>why</i> iron is low, not just to top it up.</p>
+
+<h2>The risks of taking iron for hair without testing</h2>
+<p>MedlinePlus says providers usually measure iron levels before starting supplements. There are good reasons:</p>
+<ul>
+<li><b>Iron overload.</b> Hereditary hemochromatosis makes the body store too much iron. ODS says about 1 in 10 white people carry the most common gene variant, and about 4.4 per 1,000 have two copies and the condition. It&rsquo;s much less common in other groups. Extra iron is the last thing they need.</li>
+<li><b>Side effects.</b> ODS says intakes of 45 mg a day or more can cause nausea and constipation. That 45 mg is the official upper limit for adults from food and supplements combined.</li>
+<li><b>Medicine interactions.</b> ODS notes that iron can make levothyroxine (a thyroid medicine) and levodopa (a Parkinson&rsquo;s medicine) less effective, and that heartburn drugs called proton pump inhibitors can reduce iron absorption.</li>
+<li><b>Children.</b> ODS reports that at least 43 U.S. children died from swallowing high-dose iron supplements between 1983 and 2000. Iron belongs out of reach.</li>
+</ul>
+<p>Whether you need iron, and how much, is a question for your clinician based on your results. Talk to your clinician before starting any iron supplement.</p>
+
+<h2>What this means for you</h2>
+<p>If you&rsquo;re shedding, a ferritin test is a reasonable thing to ask about, along with the other checks a dermatologist may suggest, such as thyroid tests. Low iron is common, treatable and worth finding for its own sake. Just know that the hair evidence is observational and the cutoffs aren&rsquo;t agreed. For the full picture of causes, see <a href="/hair/female-hair-loss-causes/">hair loss in women: causes and how to tell them apart</a>, plus <a href="/hair/telogen-effluvium/">telogen effluvium</a> and <a href="/hair/thyroid-hair-loss/">thyroid and hair loss</a>.</p>
+<p>Questions to ask your doctor or a board-certified dermatologist:</p>
+<ul>
+<li>What was my ferritin, and what cutoff are you using to call it low?</li>
+<li>Should we also check transferrin saturation, a blood count or a marker of inflammation?</li>
+<li>If my iron is low, what&rsquo;s causing it? Do my periods or gut need a closer look?</li>
+<li>Would iron make sense for me, and how would we recheck it?</li>
+<li>Could iron interact with any medicine I take?</li>
+</ul>
+<p>More in the <a href="/hair/">Hair</a> hub, including <a href="/hair/minoxidil-for-women/">minoxidil for women</a>.</p>""",
+ [("Treister-Goltzman Y, Yarza S, Peleg R. Iron Deficiency and Nonscarring Alopecia in Women: Systematic Review and Meta-Analysis. Skin Appendage Disord, 2022;8(2):83&ndash;92", "https://karger.com/sad/article/8/2/83/826740/Iron-Deficiency-and-Nonscarring-Alopecia-in-Women"),
+  ("Bregy A, Tr&uuml;eb RM. No Association between Serum Ferritin Levels &gt;10 &micro;g/l and Hair Loss Activity in Women. Dermatology, 2008;217(1):1&ndash;6", "https://karger.com/drm/article/217/1/1/112693/No-Association-between-Serum-Ferritin-Levels-gt-10"),
+  ("NIH Office of Dietary Supplements. Iron: Fact Sheet for Health Professionals", "https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/"),
+  ("Hanif N, Rout P, Anwer F. Iron Deficiency and Microcytic Hypochromic Anemia. StatPearls, NCBI Bookshelf (updated February 21, 2026)", "https://www.ncbi.nlm.nih.gov/sites/books/NBK560876/"),
+  ("Ko CW, et al. AGA Clinical Practice Guidelines on the Gastrointestinal Evaluation of Iron Deficiency Anemia. Gastroenterology", "https://www.gastrojournal.org/article/S0016-5085(20)34847-2/fulltext"),
+  ("MedlinePlus Medical Encyclopedia. Ferritin blood test (reviewed January 10, 2026)", "https://medlineplus.gov/ency/article/003490.htm"),
+  ("MedlinePlus Medical Encyclopedia. Iron deficiency anemia (reviewed April 1, 2025)", "https://medlineplus.gov/ency/article/000584.htm")]),
+
 
 ]

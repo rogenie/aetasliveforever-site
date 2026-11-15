@@ -137,7 +137,7 @@
    "hub": "hair",
    "path": "/hair/iron-ferritin-hair-loss/",
    "title": "Iron, ferritin and hair loss: what your labs mean",
-   "status": "todo",
+   "status": "published",
    "kind": "evergreen",
    "brief": {
     "angle": "How iron deficiency is linked to hair shedding in women, what ferritin measures, what studies found about ferritin levels in women with hair loss, and why thresholds differ between sources. NIH ODS on iron; risks of iron overload from supplementing without testing. Questions to ask your doctor.",
@@ -145,7 +145,8 @@
      "/hair/",
      "/hair/female-hair-loss-causes/"
     ]
-   }
+   },
+   "url": "https://parvaregina.com/hair/iron-ferritin-hair-loss/"
   },
   {
    "date": "2026-11-16",
