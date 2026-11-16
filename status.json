@@ -306,6 +306,17 @@
    "live_verified": false,
    "social_caption": true,
    "note": "On schedule. Meta-analysis ferritin values left out (paper reports ng/dL, a unit inconsistency); JAAD pages (Olsen 2010, Trost 2006) failed to load and were not cited; AGA guideline cited without volume because the year/pages weren't confirmed on the page. Live page not yet in search, so not fetched."
+  },
+  {
+   "date": "2026-11-16",
+   "at": "2026-11-16T06:03:42-08:00",
+   "result": "published",
+   "path": "/foundations/deep-sleep-after-35/",
+   "facts_checked": 58,
+   "removed": 4,
+   "live_verified": false,
+   "social_caption": true,
+   "note": "On schedule. PubMed returned browser checks, so Ohayon 2004 and the ACP guideline were read on the Sleep (OUP) and ACP journal pages. Removed: 'dark' bedroom tip (not in CDC/NIA text), 'strongest' boxed-warning wording, Kravitz prevalence figures (paywalled), Ohayon sex differences (not in abstract). Live page not yet in search, so not fetched."
   }
  ]
 }
