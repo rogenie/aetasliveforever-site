@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15",
+ "built": "2026-11-16",
  "cadence": "Daily. Mon/Fri: evergreen and trending articles across Body, Beauty and Longevity. Wed: research news when the scout finds one. Every other day, and any Mon/Wed/Fri left open: a Hair article (_src/TOPICS.md, \"Daily Hair\").",
  "items": [
   {
@@ -82,7 +82,9 @@
   {
    "date": "2026-11-16",
    "hub": "foundations",
-   "status": "todo"
+   "status": "written",
+   "title": "Deep sleep after 35: what changes and what helps",
+   "url": "https://parvaregina.com/foundations/deep-sleep-after-35/"
   },
   {
    "date": "2026-11-17",

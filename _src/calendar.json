@@ -153,11 +153,12 @@
    "hub": "foundations",
    "path": "/foundations/deep-sleep-after-35/",
    "title": "Deep sleep after 35: what changes and what helps",
-   "status": "todo",
+   "status": "published",
    "kind": "evergreen",
    "brief": {
     "angle": "How slow-wave sleep changes with age, menopause and sleep (vasomotor symptoms), CDC sleep guidance, CBT-I as first-line insomnia treatment, what evidence says about common sleep aids."
-   }
+   },
+   "url": "https://parvaregina.com/foundations/deep-sleep-after-35/"
   },
   {
    "date": "2026-11-17",

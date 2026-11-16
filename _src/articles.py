@@ -939,4 +939,102 @@ article("/hair/iron-ferritin-hair-loss/", "/hair/", "Hair",
   ("MedlinePlus Medical Encyclopedia. Iron deficiency anemia (reviewed April 1, 2025)", "https://medlineplus.gov/ency/article/000584.htm")]),
 
 
+article("/foundations/deep-sleep-after-35/", "/foundations/", "Sleep &amp; Foundations",
+ "Deep Sleep After 35: What Changes and What Helps",
+ "Deep sleep after 35: what changes and what helps",
+ "How deep sleep changes with age and menopause, why night waking rises in midlife, and what the evidence says about CBT-I, melatonin and sleep pills.",
+ "2026-11-16",
+ "If your sleep feels thinner than it did at 30, you&rsquo;re not imagining it. But the story is more specific than &ldquo;menopause steals your deep sleep.&rdquo; Here&rsquo;s what the sleep-lab studies actually show, and what has been tested to help.",
+ "Deep sleep shrinks gradually across adulthood, but sleep-lab studies of midlife women haven&rsquo;t found that menopause itself wipes it out. The bigger midlife change is waking up more, often tied to hot flashes. <b>For ongoing insomnia, the American College of Physicians recommends cognitive behavioral therapy for insomnia (CBT-I) as the first treatment, and a trial in women with hot flashes found it worked.</b>",
+ "human-trial",
+ [("Best evidence", "A 2016 randomized trial of phone-based CBT-I in 106 women aged 40&ndash;65 with hot flashes and insomnia; a 2004 meta-analysis of 65 sleep-lab studies (3,577 people); a 2016 ACP clinical guideline"),
+  ("Women included?", "Yes. The CBT-I trial and the menopause sleep-lab studies enrolled only women. The age meta-analysis included both sexes, and its abstract doesn&rsquo;t report results by sex"),
+  ("Protocol tested", "Six 20&ndash;30 minute CBT-I phone sessions over 8 weeks, compared with phone-based menopause education"),
+  ("Bottom line", "Some loss of deep sleep is a normal part of aging. Night waking in midlife is common and treatable, and CBT-I has the strongest evidence")],
+ """<h2>What is deep sleep?</h2>
+<p>Deep sleep is stage 3 of non-REM sleep, also called slow-wave sleep. The National Institute of Neurological Disorders and Stroke (NINDS) describes it as the stage when brain waves are slowest, heartbeat and breathing reach their lowest levels of the night, and you may be hard to wake. It comes in longer stretches in the first half of the night.</p>
+<p><b>NINDS calls it the deep sleep you need to feel refreshed in the morning.</b> That&rsquo;s why losing some of it gets so much attention.</p>
+
+<h2>Does deep sleep decrease with age?</h2>
+<p>Yes, gradually. The largest summary is a 2004 meta-analysis in <i>Sleep</i> (Ohayon and colleagues):</p>
+<ul>
+<li><b>Who:</b> 65 sleep-lab studies published from 1960 to 2003, covering 3,577 healthy people aged 5 to 102.</li>
+<li><b>Design:</b> a meta-analysis of overnight sleep recordings (polysomnography).</li>
+<li><b>Found:</b> in adults, the share of the night spent in slow-wave sleep fell with age. Total sleep time and sleep efficiency (the share of time in bed actually asleep) also fell, and time awake after first falling asleep rose.</li>
+</ul>
+<p>The abstract doesn&rsquo;t report results separately for women, so it can&rsquo;t say whether the pattern differs by sex. <b>The takeaway: a slow decline in deep sleep is a normal part of getting older, not a sign something is wrong.</b></p>
+
+<h2>Deep sleep and menopause: what sleep-lab studies show</h2>
+<p>Here&rsquo;s the surprise. When researchers recorded the same women&rsquo;s sleep before and after the menopause transition, deep sleep didn&rsquo;t collapse.</p>
+<table>
+<tr><th>Study</th><th>Who</th><th>What they found</th></tr>
+<tr><td>SWAN sleep study (Matthews and colleagues, 2021)</td><td>159 US women, average age about 51, recorded at home 2&ndash;3 nights, then again about 3.6 years later</td><td>Deep-sleep brain-wave activity didn&rsquo;t change differently in women who reached postmenopause. Faster brain-wave activity during non-REM sleep did rise in that group, and hot flashes didn&rsquo;t explain it.</td></tr>
+<tr><td>Finnish 10-year follow-up (Kalleinen and colleagues, 2021)</td><td>57 women, age 46 at the start and about 57 at follow-up, not on hormone therapy</td><td>Slow-wave sleep went from 17.9% to 26.1% of the night. The authors concluded the changes seemed more tied to age than to menopause.</td></tr>
+</table>
+<p>Both studies are small, and the Finnish team used older scoring rules for sleep stages. Still, <b>neither found that menopause itself drains deep sleep.</b> For more on how the transition affects the body, see our look at <a href="/news/menopause-physiological-cliff-study/">the menopause &ldquo;cliff&rdquo; study</a>.</p>
+
+<h2>Why does sleep feel worse in perimenopause?</h2>
+<p>What women report changes more than what the lab measures. The SWAN study followed 3,045 women aged 42 to 52 through seven yearly check-ins (Kravitz and colleagues, 2008). More frequent hot flashes and night sweats were linked to higher odds of every kind of sleep trouble they asked about. Falling estrogen was linked to trouble falling and staying asleep.</p>
+<p>The National Institute on Aging (NIA) lists the usual suspects:</p>
+<ul>
+<li><b>Hot flashes and night sweats.</b> NIA notes some research suggests waking up may trigger a hot flash, rather than the other way around.</li>
+<li><b>Mood changes,</b> especially depression.</li>
+<li><b>Life load:</b> aging parents, kids, heavier work demands.</li>
+</ul>
+<p><b>So the midlife problem is often broken sleep, not missing deep sleep.</b> That matters, because it points to different fixes.</p>
+
+<h2>Better sleep after 35: what has evidence</h2>
+<h3>CBT-I comes first</h3>
+<p>Cognitive behavioral therapy for insomnia (CBT-I) is a short, structured program. It combines sleep-focused cognitive therapy, behavior changes such as sleep restriction (limiting time in bed to time actually asleep, then widening it) and stimulus control (using the bed only for sleep), plus sleep habits education.</p>
+<p>In 2016, the American College of Physicians (ACP) issued a strong recommendation, based on moderate-quality evidence, that all adults with chronic insomnia get CBT-I as the first treatment. It can be done in person, in groups, by phone, online or with self-help books.</p>
+<p>It has been tested in women like our readers. The MsFLASH trial (McCurry and colleagues, <i>JAMA Internal Medicine</i>, 2016):</p>
+<ul>
+<li><b>Who:</b> 106 women aged 40 to 65 (average about 55), perimenopausal or postmenopausal, with at least two hot flashes a day and insomnia.</li>
+<li><b>Design:</b> randomized trial. Six 20&ndash;30 minute CBT-I phone sessions over 8 weeks, compared with phone sessions of menopause education.</li>
+<li><b>Measured:</b> insomnia severity and sleep quality, at 8 and 24 weeks.</li>
+<li><b>Found:</b> at 8 weeks, 70% of the CBT-I group scored in the no-insomnia range, versus 24% of the education group. At 24 weeks it was 84% versus 43%.</li>
+</ul>
+<p>CBT-I didn&rsquo;t reduce how often hot flashes happened, but women said hot flashes got in the way of daily life less. <b>CBT-I improved sleep even while hot flashes kept coming.</b> NIA suggests looking for a therapist with experience treating women in the menopause transition.</p>
+
+<h3>Exercise and regular habits</h3>
+<p>In a SWAN analysis of 339 women around age 52 (Kline and colleagues, 2013), those who did more sports and exercise had more deep-sleep brain-wave activity, better sleep efficiency and lower odds of insomnia. That study was a snapshot in time, so it shows a link, not cause and effect. See our guide to <a href="/fitness/vo2-max-women/">VO2 max for women</a> and <a href="/bones/strength-training-bone-density-menopause/">strength training in menopause</a> for ways to build activity in.</p>
+<p>The CDC and NIA give overlapping sleep habit advice:</p>
+<ul>
+<li>Go to bed and get up at the same time every day.</li>
+<li>Keep the bedroom quiet and comfortably cool.</li>
+<li>Turn off screens at least 30 minutes before bed (CDC).</li>
+<li>Limit caffeine later in the day, and avoid large meals and alcohol before bed. NIA notes that even small amounts of alcohol can make it harder to stay asleep.</li>
+<li>Skip late-afternoon or evening naps (NIA).</li>
+</ul>
+<p>For how much sleep to aim for, the CDC says adults 18 to 60 need 7 or more hours a night.</p>
+
+<h2>What about melatonin and sleep pills?</h2>
+<p><b>Melatonin.</b> The National Center for Complementary and Integrative Health (NCCIH) says there isn&rsquo;t enough strong evidence to recommend melatonin for chronic insomnia, a conclusion shared by the American Academy of Sleep Medicine (2017) and the ACP (2016). It&rsquo;s sold as a dietary supplement in the US, so labels can be off: a 2023 study cited by NCCIH found 22 of 25 melatonin gummies were mislabeled, with amounts from 74% to 347% of the label. Long-term safety data are lacking. Talk to your clinician before trying it, especially if you take a blood thinner.</p>
+<p><b>Prescription sleep medicines.</b> The ACP says medication can be considered, through shared decision-making about benefits, harms and costs, when CBT-I alone hasn&rsquo;t worked, and for short-term use. In 2019 the FDA added a boxed warning to eszopiclone, zaleplon and zolpidem after rare but serious injuries and deaths from sleepwalking, sleep driving and other activities done while not fully awake. NIA says neither melatonin nor prescription sleep medicines is a fix for insomnia, and neither should be used long term.</p>
+<p>Supplements like magnesium are popular too; we&rsquo;ll cover the evidence in <a href="/supplements/magnesium-glycinate-vs-threonate/">magnesium glycinate vs. L-threonate</a>.</p>
+
+<h2>The honest bottom line</h2>
+<p>A slow drop in deep sleep is part of aging, and wearables that show &ldquo;low deep sleep&rdquo; may be measuring something that&rsquo;s normal for your age (we&rsquo;re checking <a href="/health-trackers/sleep-tracker-accuracy/">how accurate sleep trackers are</a>). The midlife problem that&rsquo;s most common, and most treatable, is waking up and not getting back to sleep.</p>
+<p>Questions to bring to your clinician:</p>
+<ul>
+<li>Could hot flashes, mood, a medicine or another sleep disorder be behind my waking?</li>
+<li>Is CBT-I a fit for me, and how do I find a trained provider or program?</li>
+<li>If we consider a sleep medicine or melatonin, what are the risks for me, and for how long?</li>
+<li>Would treating my menopause symptoms help my sleep?</li>
+</ul>
+<p>More basics in <a href="/foundations/">Sleep &amp; Foundations</a>.</p>""",
+ [("Ohayon MM, Carskadon MA, Guilleminault C, Vitiello MV. Meta-analysis of quantitative sleep parameters from childhood to old age in healthy individuals. Sleep, 2004;27(7):1255&ndash;1273", "https://academic.oup.com/sleep/article/27/7/1255/2696819"),
+  ("Matthews KA, et al. Influence of the menopausal transition on polysomnographic sleep characteristics: a longitudinal analysis. Sleep, 2021;44(11):zsab139", "https://academic.oup.com/sleep/article/44/11/zsab139/6291662"),
+  ("Kalleinen N, et al. Sleep during menopausal transition: a 10-year follow-up. Sleep, 2021;44(6):zsaa283", "https://academic.oup.com/sleep/article/44/6/zsaa283/6039192"),
+  ("Kravitz HM, et al. Sleep disturbance during the menopausal transition in a multi-ethnic community sample of women. Sleep, 2008;31(7):979&ndash;990", "https://academic.oup.com/sleep/article-abstract/31/7/979/2454246"),
+  ("McCurry SM, et al. Telephone-based cognitive behavioral therapy for insomnia in perimenopausal and postmenopausal women with vasomotor symptoms: a MsFLASH randomized clinical trial. JAMA Intern Med, 2016;176(7):913&ndash;920", "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2522398"),
+  ("Kline CE, et al. Consistently high sports/exercise activity is associated with better sleep quality, continuity and depth in midlife women: the SWAN Sleep Study. Sleep, 2013;36(9):1279&ndash;1288", "https://academic.oup.com/sleep/article/36/9/1279/2453863"),
+  ("Qaseem A, et al. Management of chronic insomnia disorder in adults: a clinical practice guideline from the American College of Physicians. Ann Intern Med, 2016;165(2):125&ndash;133", "https://www.acpjournals.org/doi/10.7326/M15-2175"),
+  ("National Institute on Aging. Sleep Problems and Menopause: What Can I Do?", "https://www.nia.nih.gov/health/menopause/sleep-problems-and-menopause-what-can-i-do"),
+  ("National Institute of Neurological Disorders and Stroke. Brain Basics: Understanding Sleep", "https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-understanding-sleep"),
+  ("CDC. About Sleep", "https://www.cdc.gov/sleep/about/index.html"),
+  ("NCCIH. Melatonin: What You Need To Know (updated May 2024)", "https://www.nccih.nih.gov/health/melatonin-what-you-need-to-know"),
+  ("FDA. Certain prescription insomnia medicines: new boxed warning (April 30, 2019)", "https://www.fda.gov/safety/medical-product-safety-information/certain-prescription-insomnia-medicines-new-boxed-warning-due-risk-serious-injuries-caused")]),
+
+
 ]
