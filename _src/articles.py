@@ -1037,4 +1037,96 @@ article("/foundations/deep-sleep-after-35/", "/foundations/", "Sleep &amp; Found
   ("FDA. Certain prescription insomnia medicines: new boxed warning (April 30, 2019)", "https://www.fda.gov/safety/medical-product-safety-information/certain-prescription-insomnia-medicines-new-boxed-warning-due-risk-serious-injuries-caused")]),
 
 
+article("/hair/telogen-effluvium/", "/hair/", "Hair",
+ "Telogen Effluvium: Sudden Hair Shedding in Women",
+ "Telogen effluvium: sudden hair shedding after stress, illness or surgery",
+ "Why hair can shed in handfuls months after an illness, surgery or childbirth, how long telogen effluvium lasts, and how it differs from pattern hair loss.",
+ "2026-11-17",
+ "Hair in the drain, on the pillow, in your hands after a shower, and it seems to come from nowhere. Often the cause happened months earlier. This is telogen effluvium, one of the most common reasons women suddenly shed, and the outlook is usually good.",
+ "Telogen effluvium is diffuse shedding that usually starts about 3 months after a shock to the body, such as a high fever, surgery, childbirth, a crash diet or a new medicine. <b>The acute form usually settles on its own once the trigger is gone, and hair regrows, though full recovery can take several months to a year.</b> Shedding that lasts more than 6 months is called chronic and deserves a dermatologist&rsquo;s look.",
+ "review",
+ [("Best evidence", "Clinical reviews (StatPearls, updated 2024; <i>Cureus</i>, 2020) and a 1996 biopsy study of 355 people with chronic diffuse shedding"),
+  ("Women included?", "Yes. The 1996 study was 346 women and 9 men; reviews say women are more often affected and more likely to seek care"),
+  ("Dose or protocol tested", "None. These sources describe causes, timing and diagnosis, not a treatment trial"),
+  ("Bottom line", "Find and fix the trigger; acute shedding is usually self-limited. Long-lasting or patchy loss, or a widening part, needs a dermatologist")],
+ """<h2>What is telogen effluvium?</h2>
+<p>Each hair on your scalp cycles through a growing phase (anagen), a short transition (catagen) and a resting phase (telogen), after which it falls out and a new one starts. On a typical scalp, about 85 to 90% of hairs are growing and 10 to 15% are resting, according to a StatPearls review on NIH&rsquo;s NCBI Bookshelf and a 2020 review in <i>Cureus</i>. StatPearls puts the growing phase at almost 4 years and the resting phase at about 4 months.</p>
+<p>Telogen effluvium happens when a stress on the body pushes many growing hairs into the resting phase at once. A few months later, they all fall out together. <b>It&rsquo;s a nonscarring type of hair loss: StatPearls notes that follicle number and density are typically normal.</b></p>
+<p>MedlinePlus, the National Library of Medicine&rsquo;s health site, says most people lose about 50 to 200 hairs a day anyway. With telogen effluvium the loss is spread over the whole scalp rather than in patches.</p>
+
+<h2>What triggers telogen effluvium?</h2>
+<p>StatPearls and MedlinePlus list overlapping triggers:</p>
+<ul>
+<li><b>Illness:</b> high fever, severe infection, serious illness.</li>
+<li><b>Major surgery, severe injury or sudden blood loss.</b></li>
+<li><b>Childbirth.</b> StatPearls notes falling estrogen after delivery is a common cause in women.</li>
+<li><b>Crash dieting or low protein intake.</b></li>
+<li><b>Severe emotional stress.</b></li>
+<li><b>Thyroid problems and iron deficiency.</b> See <a href="/hair/thyroid-hair-loss/">thyroid and hair loss</a> and <a href="/hair/iron-ferritin-hair-loss/">iron, ferritin and hair loss</a>.</li>
+<li><b>Medicines,</b> including retinoids (and excess vitamin A), beta-blockers, blood thinners, some antidepressants and anti-seizure drugs, birth control pills, and suddenly stopping a medicine that contains estrogen.</li>
+</ul>
+<p>The 2020 <i>Cureus</i> review notes that no cause is found in about a third of acute cases. <b>If you suspect a medicine, don&rsquo;t stop it on your own; ask the clinician who prescribed it.</b></p>
+
+<h2>When does shedding start, and how long does telogen effluvium last?</h2>
+<p>This is the part that confuses people. StatPearls says the trigger usually comes about 3 months before the shedding starts, with a range of 1 to 6 months. By then, many people have recovered from the illness or event and don&rsquo;t connect the two.</p>
+<table>
+<tr><th>Stage</th><th>Typical timing</th><th>Source</th></tr>
+<tr><td>Shedding begins after a trigger</td><td>About 3 months (range 1&ndash;6)</td><td>StatPearls</td></tr>
+<tr><td>Shedding after childbirth</td><td>2&ndash;4 months after delivery, usually lasting about 2 months</td><td>Rebora, <i>Skin Appendage Disorders</i>, 2016</td></tr>
+<tr><td>Shedding tapers off</td><td>Over 6&ndash;8 months</td><td>MedlinePlus</td></tr>
+<tr><td>Regrowth restarts</td><td>Can take up to 6 months</td><td>StatPearls</td></tr>
+<tr><td>Full density returns</td><td>Several months to a year</td><td>StatPearls</td></tr>
+</table>
+<p>The <i>Cureus</i> review reports that about 95% of acute cases go into remission. Rebora&rsquo;s 2016 review says shedding after childbirth is commonly followed by complete recovery and rarely becomes chronic.</p>
+<p><b>Because regrowth can take up to 6 months to restart, hair can still look thin for a while after the shedding itself has stopped.</b></p>
+
+<h2>Chronic telogen effluvium in women 30 to 60</h2>
+<p>When shedding goes on for more than 6 months, it&rsquo;s called chronic telogen effluvium. The defining study is a 1996 paper in the <i>Journal of the American Academy of Dermatology</i> by David Whiting:</p>
+<ul>
+<li><b>Who:</b> 355 people with diffuse thinning of unknown cause (346 women, 9 men), compared with 412 people with pattern hair loss and 22 people with normal scalps.</li>
+<li><b>Design:</b> two small scalp biopsies from each person, examined under the microscope.</li>
+<li><b>Found:</b> people with chronic telogen effluvium had about as many hairs as controls (39 vs 40 per sample), and few fine &ldquo;miniaturized&rdquo; hairs, with a terminal-to-vellus ratio of 9:1. People with pattern hair loss had far more fine hairs, a ratio of 1.9:1.</li>
+</ul>
+<p>Whiting concluded that chronic telogen effluvium usually affects women aged 30 to 60, starts abruptly, with or without a clear trigger, and runs a long, fluctuating course. MedlinePlus likewise notes diffuse thinning with no known cause in some women aged 30 to 60. <b>It can be frustrating, but StatPearls describes the cosmetic outcome as good even when shedding continues.</b></p>
+
+<h2>Telogen effluvium vs female pattern hair loss</h2>
+<p>The two can look alike, and they can happen together. Some differences from the sources:</p>
+<table>
+<tr><th></th><th>Telogen effluvium</th><th>Female pattern hair loss</th></tr>
+<tr><td>Onset</td><td>Often abrupt (StatPearls; Whiting)</td><td>Develops as follicles shrink over time (MedlinePlus)</td></tr>
+<tr><td>Where</td><td>Diffuse, all over the scalp</td><td>Top and crown, often starting as a widening center part (MedlinePlus)</td></tr>
+<tr><td>Hair itself</td><td>Few fine, miniaturized hairs in biopsies (Whiting)</td><td>Shrinking follicles make shorter, finer hairs (MedlinePlus)</td></tr>
+</table>
+<p>For more on how dermatologists sort out the causes, see <a href="/hair/female-hair-loss-causes/">hair loss in women: causes and how to tell them apart</a>.</p>
+
+<h2>How dermatologists diagnose telogen effluvium</h2>
+<ul>
+<li><b>History:</b> what happened 1 to 6 months before the shedding started, and your medicines.</li>
+<li><b>Pull test:</b> StatPearls says a gentle pull on a small bunch of hair usually brings out at least four hairs during active shedding. It can be normal once shedding has stopped.</li>
+<li><b>Hair counts:</b> collecting 100 or more shed hairs in 24 hours suggests telogen effluvium, per StatPearls. The <i>Cureus</i> review describes a wash test that also counts fine hairs to help separate it from pattern hair loss.</li>
+<li><b>Blood tests:</b> StatPearls lists iron studies, including ferritin, and a thyroid test (TSH) when symptoms point that way.</li>
+<li><b>Biopsy:</b> rarely needed. StatPearls says it confirms telogen effluvium when 25 to 50% of follicles are in the resting phase.</li>
+</ul>
+
+<h2>Does anything help telogen effluvium?</h2>
+<p>StatPearls describes acute telogen effluvium as self-limited: once the trigger is found and dealt with, hair growth returns. The <i>Cureus</i> review stresses finding and removing the trigger, correcting any deficiency that tests confirm, and keeping a balanced diet and stable weight. <b>StatPearls notes topical minoxidil hasn&rsquo;t been proven effective for telogen effluvium</b>, and treatment for chronic or mixed cases is a decision for a board-certified dermatologist (see <a href="/hair/minoxidil-for-women/">minoxidil for women</a> for the evidence in pattern hair loss).</p>
+
+<h2>What this means for you</h2>
+<p>Sudden, all-over shedding a few months after a fever, surgery, a baby or a hard stretch is very often telogen effluvium, and the usual course is recovery. Still, see a clinician or board-certified dermatologist if shedding lasts more than 6 months or your part seems to be widening. MedlinePlus also lists reasons to get checked that include hair loss in an unusual pattern, scalp pain, itching or scaling, fatigue, trouble tolerating cold, and acne or facial hair with irregular periods.</p>
+<p>Questions to ask:</p>
+<ul>
+<li>Could something in the last 6 months explain this, including a medicine change?</li>
+<li>Should we check my iron, ferritin and thyroid?</li>
+<li>Is this telogen effluvium, pattern hair loss, or both?</li>
+<li>If it lasts past 6 months, what would you look at next?</li>
+</ul>
+<p>More in the <a href="/hair/">Hair</a> hub, including <a href="/hair/hair-thinning-perimenopause/">hair thinning in perimenopause</a>.</p>""",
+ [("Hughes EC, Syed HA, Saleh D. Telogen Effluvium. StatPearls, NCBI Bookshelf (updated May 1, 2024)", "https://www.ncbi.nlm.nih.gov/sites/books/NBK430848/"),
+  ("Whiting DA. Chronic telogen effluvium: increased scalp hair shedding in middle-aged women. J Am Acad Dermatol, 1996;35(6):899&ndash;906", "https://pubmed.ncbi.nlm.nih.gov/8959948/"),
+  ("Asghar F, Shamim N, Farooque U, Sheikh H, Aqeel R. Telogen Effluvium: A Review of the Literature. Cureus, 2020;12(5):e8320", "https://www.cureus.com/articles/32514-telogen-effluvium-a-review-of-the-literature.pdf"),
+  ("Rebora A. Proposing a Simpler Classification of Telogen Effluvium. Skin Appendage Disord, 2016;2:35&ndash;38", "https://europepmc.org/api/getPdf?pmcid=PMC5096129"),
+  ("MedlinePlus Medical Encyclopedia. Hair loss (reviewed June 3, 2025)", "https://medlineplus.gov/ency/article/003246.htm"),
+  ("MedlinePlus Medical Encyclopedia. Female pattern baldness (reviewed January 28, 2026)", "https://medlineplus.gov/ency/article/001173.htm")]),
+
+
 ]

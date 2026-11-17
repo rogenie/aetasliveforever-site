@@ -165,7 +165,7 @@
    "hub": "hair",
    "path": "/hair/telogen-effluvium/",
    "title": "Telogen effluvium: sudden hair shedding after stress, illness or surgery",
-   "status": "todo",
+   "status": "published",
    "kind": "evergreen",
    "brief": {
     "angle": "What telogen effluvium is (hair cycle), common triggers (illness, fever, surgery, childbirth, crash dieting, some medications), typical timing and recovery per dermatology sources, chronic telogen effluvium, and how it differs from female pattern hair loss. When to see a dermatologist.",
@@ -173,7 +173,8 @@
      "/hair/",
      "/hair/female-hair-loss-causes/"
     ]
-   }
+   },
+   "url": "https://parvaregina.com/hair/telogen-effluvium/"
   },
   {
    "date": "2026-11-18",
