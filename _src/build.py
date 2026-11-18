@@ -94,7 +94,7 @@ def layout(p):
 </main>
 <footer class="site"><div class="wrap">
 <div class="fgrid">
-<div><img class="flogo" src="/assets/brand/logo-light.png" alt="ÆTAS: longevity for women" width="900" height="414" loading="lazy"><p>Evidence-based longevity science for women 35+. Every claim linked to its source.</p><a href="/ageless-reset/">Free guide: The 30-Day Ageless Reset</a><a href="{SITE["tiktok"]}" target="_blank" rel="noopener">TikTok @parvaregina</a><a href="/feed.xml">RSS feed</a></div>
+<div><img class="flogo" src="/assets/brand/logo-light.png" alt="ÆTAS: longevity for women" width="900" height="414" loading="lazy"><p>Evidence-based longevity science for women 35+. Every claim linked to its source.</p><a href="/ageless-reset/">Free guide: The 30-Day Ageless Reset</a><a href="{SITE["tiktok"]}" target="_blank" rel="noopener">TikTok @aetasliveforever</a><a href="/feed.xml">RSS feed</a></div>
 {"".join(f'<div><b>{esc(n)}</b>' + "".join(f'<a href="{k}">{kn}</a>' for k, kn in kids) + '</div>' for n, kids in SITE["nav"])}
 <div><b>Trust</b><a href="/editorial-policy/">Editorial policy</a><a href="/corrections/">Corrections</a><a href="/about/">About</a><a href="/privacy/">Privacy &amp; cookies</a><a href="/privacy/#california">Your California privacy rights</a></div>
 </div>

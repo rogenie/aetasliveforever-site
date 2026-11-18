@@ -4,7 +4,7 @@ SITE = {
   "desc": "Evidence-based longevity science for women 35+: what the research actually shows about sleep, strength, skin, hormones and supplements.",
   "author": "ÆTAS Research Desk",
   "publisher": "9nth Dimension Inc.",
-  "tiktok": "https://www.tiktok.com/@parvaregina",
+  "tiktok": "https://www.tiktok.com/@aetasliveforever",
   # Kit form id for the newsletter (a number from the Kit form's embed code). None = signup not live yet.
   "kit_form_id": None,
   # Kit embed script uid (from the form's JavaScript embed code). Used when kit_form_id is None.
@@ -197,7 +197,7 @@ PAGES = [
 <p>We&rsquo;re not doctors, and nothing here is medical advice for your situation. Talk to your clinician before starting a supplement, changing a medication, or trying a new protocol, especially if you&rsquo;re pregnant, nursing, or managing a health condition.</p>
 <h2>Who publishes it</h2>
 <p>ÆTAS is published by 9nth Dimension Inc. We don&rsquo;t accept payment for coverage. If we ever add affiliate links, every page that has them will say so at the top.</p>
-<p>Find us on <a href="{SITE["tiktok"]}" target="_blank" rel="noopener">TikTok @parvaregina</a>.</p>
+<p>Find us on <a href="{SITE["tiktok"]}" target="_blank" rel="noopener">TikTok @aetasliveforever</a>.</p>
 </div></section>'''},
  {"path":"/editorial-policy/","title":"Editorial Policy | ÆTAS","h1":"Editorial policy",
   "desc":"How ÆTAS researches, writes, labels and corrects its longevity articles, including how AI is used.",

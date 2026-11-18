@@ -21,7 +21,7 @@ Goal: when women 35-50 are suddenly searching or watching something about aging,
 - Google Trends: search `trends.google.com` for rising topics in health, skin, menopause and supplements; also WebSearch phrases like "trending wellness 2026", "viral skincare trend", "menopause TikTok trend", "longevity supplement news this week".
 - News coverage: WebSearch restricted to major outlets (nytimes.com, washingtonpost.com, today.com, health.com, womenshealthmag.com, self.com, npr.org, cnn.com/health). Several outlets covering the same thing in the same week is the strongest signal.
 - Video platforms, through search: WebSearch restricted to youtube.com and tiktok.com for the same phrases. You can't log in, so judge by how many recent results and articles about the trend you find.
-- Your own audience: with the Metricool connector (brand id 2896902, "parvaregina"), check which recent TikTok and YouTube posts got the most views (use getAnalyticsAvailableMetrics for the posts connector to find the field IDs). A topic that over-performed on the account counts as trending for our readers.
+- Your own audience: with the Metricool connector (brand id 2896902, still labeled "parvaregina" in Metricool), check which recent TikTok and YouTube posts got the most views (use getAnalyticsAvailableMetrics for the posts connector to find the field IDs). A topic that over-performed on the account counts as trending for our readers.
 
 **A trend qualifies only if all are true:**
 1. Several independent sources show a rise in the last 7 days (not one viral post).
