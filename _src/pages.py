@@ -1,6 +1,6 @@
 SITE = {
   "name": "ÆTAS",
-  "url": "https://parvaregina.com",
+  "url": "https://aetasliveforever.com",
   "desc": "Evidence-based longevity science for women 35+: what the research actually shows about sleep, strength, skin, hormones and supplements.",
   "author": "ÆTAS Research Desk",
   "publisher": "9nth Dimension Inc.",
@@ -233,7 +233,7 @@ PAGES = [
   "body":'''<section class="hero small"><div class="wrap narrow"><p class="eyebrow">Privacy</p><h1>Privacy &amp; cookies</h1><p class="lede">Effective October 29, 2026. In short: we collect your email only if you give it to us, we don&rsquo;t sell or share personal information, and we don&rsquo;t use advertising cookies or tracking pixels.</p></div></section>
 <section><div class="wrap narrow prose">
 <h2>Who we are</h2>
-<p>ÆTAS (parvaregina.com) is published by 9nth Dimension Inc., based in California. &ldquo;We&rdquo; and &ldquo;us&rdquo; in this policy mean 9nth Dimension Inc.</p>
+<p>ÆTAS (aetasliveforever.com) is published by 9nth Dimension Inc., based in California. &ldquo;We&rdquo; and &ldquo;us&rdquo; in this policy mean 9nth Dimension Inc.</p>
 
 <h2>What we collect</h2>
 <table>

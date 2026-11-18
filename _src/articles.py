@@ -15,7 +15,7 @@ EV = {  # evidence label keys -> display text (CSS class = key)
 }
 
 def share_box(path, h1):
-    url = "https://parvaregina.com" + path
+    url = "https://aetasliveforever.com" + path
     u = quote(url, safe=""); t = quote(unescape(h1), safe="")
     links = [
         ("Facebook", f"https://www.facebook.com/sharer/sharer.php?u={u}"),

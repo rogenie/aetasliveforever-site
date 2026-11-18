@@ -44,7 +44,7 @@ def _crown(d, x, y, s, color):
     d.line([(x, y + 34 * k), (x + 36 * k, y + 34 * k)], fill=color, width=max(2, int(3 * k)))
 
 
-def make_card(out, title, eyebrow="", footer="parvaregina.com  ·  Longevity science for women 35+"):
+def make_card(out, title, eyebrow="", footer="aetasliveforever.com  ·  Longevity science for women 35+"):
     """Render one card to `out` (PNG). Returns True if written, False if Pillow is missing."""
     try:
         from PIL import Image, ImageDraw, ImageFont

@@ -1,6 +1,6 @@
 # ÆTAS publishing runbook
 
-A scheduled run every day (5:59 AM Pacific) follows this file to publish articles on parvaregina.com. Publishing is fully automatic by the owner's choice: nothing waits for human review, so every run must pass every check below before anything goes live. When a check fails, the article does not publish.
+A scheduled run every day (5:59 AM Pacific) follows this file to publish articles on aetasliveforever.com. Publishing is fully automatic by the owner's choice: nothing waits for human review, so every run must pass every check below before anything goes live. When a check fails, the article does not publish.
 
 The site: evidence-based longevity science for women roughly 35-50 (the perimenopause decade and just after). Voice: warm, precise, calm. The reader is smart, busy and tired of hype.
 
@@ -72,7 +72,7 @@ Sections are grouped in the menu as **Body** (Fitness, Meal Plans, Bones & Stren
 ## Publish
 
 1. From the repo root run `python3 _src/build.py`. The new article must appear in the live count. The build also makes the share image (`assets/og/<slug>.png`); it needs Pillow (`pip install --break-system-packages pillow` if missing). Commit it with the article.
-2. Set the calendar item's status to `published` and add `"url": "https://parvaregina.com<path>"`.
+2. Set the calendar item's status to `published` and add `"url": "https://aetasliveforever.com<path>"`.
 3. Commit with author `Rogenie Cordero <rogenie@gmail.com>` and message `Publish: <title>`, then push to `main`.
 4. Verify: fetch the live page once (after a search has returned it, or skip if the fetch is refused) and set `live_verified` accordingly. GitHub Pages usually deploys within a few minutes.
 5. Write a social caption for the ÆTAS social engine and save it as `_src/social/<date>-<slug>.md` in the same commit: a hook line naming the reader's question, 3 short takeaways with the evidence label, a soft line pointing to the article ("Full article: link in bio"), and the line "(Wellness education, not medical advice.)". Same "Never" rules, no first-person experience. Don't post it anywhere.

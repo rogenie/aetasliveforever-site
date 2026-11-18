@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://parvaregina.com/sitemap.xml
+Sitemap: https://aetasliveforever.com/sitemap.xml
