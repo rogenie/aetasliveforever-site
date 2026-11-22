@@ -338,6 +338,50 @@
    "live_verified": false,
    "social_caption": true,
    "note": "On schedule. PMC and one PubMed page returned browser checks; Asghar 2020 read on cureus.com, Rebora 2016 on Europe PMC, Whiting 1996 abstract on PubMed; JAAD page failed to load. Removed unsourced lines (etymology, regrowth-speed claim, FPHL 'gradual/progresses' rows, remembered-onset detail) and reworded the birth-control trigger and MedlinePlus when-to-see list to match sources. Live page not yet in search, so not fetched."
+  },
+  {
+   "date": "2026-11-21",
+   "at": "2026-11-21T19:45:00-08:00",
+   "result": "published",
+   "path": "/hair/biotin-for-hair/",
+   "facts_checked": 31,
+   "removed": 6,
+   "live_verified": false,
+   "social_caption": true,
+   "note": "Catch-up (scheduled 2026-11-18; an earlier run built it but never pushed). Re-researched and re-checked this run on ODS, PMC, FDA. Removed/reworded: '2020' year for the TE biotin study, '6 manufacturers' troponin count, 'single case reports' exclusion wording, fats/carbs/protein wording, vitamin D placement, lactation from the marginal-deficiency line. Live page not yet in search, so not fetched."
+  },
+  {
+   "date": "2026-11-21",
+   "at": "2026-11-21T19:45:00-08:00",
+   "result": "published",
+   "path": "/hair/thyroid-hair-loss/",
+   "facts_checked": 34,
+   "removed": 3,
+   "live_verified": false,
+   "social_caption": true,
+   "note": "Catch-up (scheduled 2026-11-19). Cureus thyroid-hair review and PMC10492440 failed to load (browser check / client error), so not cited; no source gave a hair-regrowth timeline after treatment, so the article says so instead. Live page not yet in search, so not fetched."
+  },
+  {
+   "date": "2026-11-21",
+   "at": "2026-11-21T19:45:00-08:00",
+   "result": "published",
+   "path": "/hair/hair-thinning-perimenopause/",
+   "facts_checked": 38,
+   "removed": 6,
+   "live_verified": false,
+   "social_caption": true,
+   "note": "Catch-up (scheduled 2026-11-20). PMC10669803 blocked by browser check, not cited. Removed unsourced lines: 'heavy periods common in perimenopause', FFA 'follicles can't regrow', 5-ARI mechanism, androgen 'counts for more', TE timing/course rows. Ferritin/B12/vitamin D workup not in sources read; pointed to existing iron and thyroid articles. Live page not yet in search, so not fetched."
+  },
+  {
+   "date": "2026-11-21",
+   "at": "2026-11-21T19:45:00-08:00",
+   "result": "published",
+   "path": "/hair/spironolactone-hair-loss-women/",
+   "facts_checked": 40,
+   "removed": 2,
+   "live_verified": false,
+   "social_caption": true,
+   "note": "On schedule. PMC10502763 blocked; same Aleissa 2023 meta-analysis read via the Cureus PDF; JAAD 2021 review failed to load, not cited. Reworded 'blocks androgen effects' to the Kamp review's 'anti-androgen' wording. Live page not yet in search, so not fetched."
   }
  ]
 }
