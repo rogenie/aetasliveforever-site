@@ -1129,4 +1129,319 @@ article("/hair/telogen-effluvium/", "/hair/", "Hair",
   ("MedlinePlus Medical Encyclopedia. Female pattern baldness (reviewed January 28, 2026)", "https://medlineplus.gov/ency/article/001173.htm")]),
 
 
+article("/hair/biotin-for-hair/", "/hair/", "Hair",
+ "Biotin for Hair: Does It Work? Plus the Lab-Test Warning",
+ "Biotin for hair: does it work, and the lab-test warning",
+ "What the research shows about biotin for hair loss in women without a deficiency, how rare deficiency is, and why FDA warns biotin can skew lab tests.",
+ "2026-11-21",
+ "Biotin is the headline ingredient in many hair, skin and nail supplements. The evidence behind it is much thinner than the shelf space suggests, and there is one safety issue worth knowing about before your next blood test.",
+ "For hair loss in people who aren&rsquo;t biotin deficient, there is no good evidence that biotin helps: a 2024 review found no studies showing a benefit in healthy people. <b>Deficiency is rare in people eating a normal diet, and high-dose biotin can cause falsely high or low results on some blood tests, including heart and thyroid tests, so tell your clinician and lab if you take it.</b>",
+ "review",
+ [("Best evidence", "A 2024 literature review (<i>J Clin Aesthet Dermatol</i>) that found only 3 studies of biotin alone for hair; a 2017 review of 18 case reports (<i>Skin Appendage Disorders</i>)"),
+  ("Women included?", "Yes. The only placebo-controlled trial (1966) studied women with diffuse hair loss; another study was 112 women after weight-loss surgery"),
+  ("Dose or protocol tested", "The 1966 trial tested 10 mg a day for 4 weeks against placebo; the weight-loss surgery study tested 1 mg a day"),
+  ("Bottom line", "Biotin helps hair when there&rsquo;s a real deficiency or a rare condition. For everyone else, the evidence isn&rsquo;t there, and the lab-test interference is a real risk")],
+ """<h2>What is biotin, and how much do you need?</h2>
+<p>Biotin is a water-soluble B vitamin. Your body uses it to process fats, sugars and protein, according to the NIH Office of Dietary Supplements (ODS).</p>
+<p>There isn&rsquo;t enough data to set a full recommended daily allowance, so experts set an &ldquo;adequate intake&rdquo; instead:</p>
+<table>
+<tr><th>Group</th><th>Adequate intake (per day)</th></tr>
+<tr><td>Women 19 and older</td><td>30 mcg</td></tr>
+<tr><td>Pregnancy</td><td>30 mcg</td></tr>
+<tr><td>Breastfeeding</td><td>35 mcg</td></tr>
+</table>
+<p>Many foods contain some biotin. ODS lists a cooked whole egg at 10 mcg, 3 ounces of canned pink salmon at 5 mcg, a quarter cup of roasted sunflower seeds at 2.6 mcg and half a cup of cooked sweet potato at 2.4 mcg. There are no national US estimates of intake, but ODS says average intakes in other Western countries are about 35 to 70 mcg a day.</p>
+<p><b>ODS notes that no upper limit has been set, because there&rsquo;s no human evidence that biotin is toxic at high intakes. The bigger concern with high doses is lab tests (see below).</b></p>
+
+<h2>How common is biotin deficiency?</h2>
+<p>ODS says severe biotin deficiency has never been reported in healthy people eating a normal mixed diet. When deficiency does happen, signs include thinning hair (which can progress to losing all body hair), a scaly red rash around body openings, and brittle nails.</p>
+<p>Groups ODS lists as more likely to run low:</p>
+<ul>
+<li><b>People with biotinidase deficiency,</b> a rare inherited disorder. All US newborns are screened for it.</li>
+<li><b>People with long-term heavy alcohol use,</b> which blocks absorption.</li>
+<li><b>Pregnant women.</b> ODS says at least a third of pregnant women develop marginal deficiency.</li>
+<li><b>People who eat raw egg whites often.</b> A protein in raw egg white (avidin) binds biotin; cooking breaks it down.</li>
+</ul>
+<p>ODS also cites a study of 264 people with epilepsy that linked at least a year of anti-seizure medicine to lower biotin levels. If you take one, ask your prescriber rather than changing anything yourself.</p>
+<p>One study complicates the picture. The 2024 review in the <i>Journal of Clinical and Aesthetic Dermatology</i> reports that a 2016 study by Tr&uuml;eb found low serum biotin in 38% of 541 women with hair loss. But the same review notes that another study found no difference between 60 people with telogen effluvium and 20 controls, and that serum biotin levels are thought to be unreliable. <b>A low lab number isn&rsquo;t the same as proof that biotin is causing your shedding.</b></p>
+
+<h2>Does biotin work for hair loss? What the studies show</h2>
+<p>The 2024 review (Yelich and colleagues) searched PubMed for studies of biotin on its own for hair growth or quality, leaving out case reports and case series. Out of 330 search results, only 3 studies qualified:</p>
+<table>
+<tr><th>Study</th><th>Who</th><th>What was tested</th><th>What was found</th></tr>
+<tr><td>Pawlowski, 1966</td><td>46 women with diffuse hair loss (28 biotin, 18 placebo)</td><td>10 mg a day vs placebo, 4 weeks, double-blind</td><td>No significant difference in hair growth</td></tr>
+<tr><td>Aksac, 2021</td><td>60 people taking isotretinoin (an acne drug that can cause shedding); 30 also got biotin</td><td>10 mg a day vs no biotin; not blinded</td><td>A shift toward more hairs in the growing phase on scalp imaging with biotin</td></tr>
+<tr><td>Sen, 2021</td><td>112 women with hair loss after sleeve gastrectomy</td><td>1 mg a day</td><td>23% of deficient and 38% of non-deficient women reported improvement; no significant difference between groups</td></tr>
+</table>
+<p><b>The review found no studies showing that biotin improves hair growth in healthy people.</b> The authors called the evidence low quality. The review reported no funding and no relevant conflicts of interest.</p>
+<p>An earlier review in <i>Skin Appendage Disorders</i> (Patel and colleagues, 2017) found 18 reported cases of biotin use for hair and nail changes. In every case, the patient had an underlying condition, such as inherited biotin-processing disorders, a side effect of the seizure drug valproic acid, brittle nail syndrome or uncombable hair syndrome. The authors concluded there wasn&rsquo;t enough evidence to support biotin for healthy people.</p>
+<p>ODS reaches the same place: claims for biotin for hair, skin and nails rest, at best, on a few case reports and small studies. For hair specifically, ODS describes case reports only in children with uncombable hair syndrome.</p>
+
+<h2>The biotin lab-test warning: why it matters</h2>
+<p>Some lab tests use biotin as part of how they work. When there&rsquo;s a lot of biotin in your blood, it can throw those tests off. <b>FDA says biotin can cause falsely high or falsely low results, depending on the test, which can lead to misdiagnosis.</b> FDA issued safety communications about this on November 28, 2017, and November 5, 2019.</p>
+<ul>
+<li><b>Heart tests:</b> FDA says it has continued to receive adverse event reports of falsely low troponin results (troponin is used to diagnose heart attacks). ODS reports that, according to FDA, a patient with a high biotin intake died after a falsely low troponin result.</li>
+<li><b>Thyroid tests:</b> ODS describes case reports of results falsely pointing to Graves&rsquo; disease and severe hyperthyroidism in people taking 10 to 300 mg a day. Even a single 10 mg dose interfered with thyroid tests run within 24 hours.</li>
+<li><b>Other tests:</b> In six healthy adults taking 10 mg a day for a week, some tests gave falsely low TSH (a thyroid test) and NT-proBNP (a heart-failure marker). ODS also lists vitamin D among the tests very high biotin intakes can affect.</li>
+</ul>
+<p>For scale, FDA&rsquo;s October 2020 guidance says the usual 30 mcg daily intake keeps blood biotin below 1 ng/mL, while intakes of up to 300 mg a day produce levels above 1,000 ng/mL. A milligram is 1,000 micrograms, so 10 mg is more than 300 times the adequate intake for adult women.</p>
+<p>FDA&rsquo;s troponin page, current as of June 2022, lists 17 troponin tests subject to biotin interference and says some test makers have addressed it while others have not. ODS says FDA advises clinicians to ask patients about supplements that contain biotin. <b>Ask your clinician or lab whether and when to pause biotin before a test, and don&rsquo;t skip a test because of it.</b></p>
+
+<h2>Biotin for hair: the honest bottom line</h2>
+<ul>
+<li><b>If you have a confirmed deficiency or one of the rare conditions above,</b> biotin can help, under your clinician&rsquo;s care.</li>
+<li><b>If you don&rsquo;t,</b> there&rsquo;s no good evidence it grows hair, and the one placebo-controlled trial in women found no difference.</li>
+<li><b>If you take it anyway,</b> list it on every intake form and tell whoever orders your bloodwork.</li>
+</ul>
+<p>Shedding usually has another cause worth finding. Common ones include <a href="/hair/telogen-effluvium/">telogen effluvium</a>, <a href="/hair/iron-ferritin-hair-loss/">low iron and ferritin</a>, <a href="/hair/thyroid-hair-loss/">thyroid problems</a> and female pattern hair loss, which has treatments with trial evidence (see <a href="/hair/minoxidil-for-women/">minoxidil for women</a>). For an overview, start with <a href="/hair/female-hair-loss-causes/">hair loss in women: causes and how to tell them apart</a>.</p>
+<p>Questions to ask a clinician or board-certified dermatologist:</p>
+<ul>
+<li>What do you think is causing my hair loss?</li>
+<li>Is there any reason to test my biotin level, or would other tests tell us more?</li>
+<li>I take biotin (or a supplement that contains it). Could it affect my upcoming blood tests?</li>
+<li>Do any of my medicines affect biotin or my hair?</li>
+</ul>
+<p>More in the <a href="/hair/">Hair</a> hub, including <a href="/hair/hair-thinning-perimenopause/">hair thinning in perimenopause</a>.</p>""",
+ [("Yelich A, Jenkins H, Holt S, Miller R. Biotin for Hair Loss: Teasing Out the Evidence. J Clin Aesthet Dermatol, 2024;17(8):56&ndash;61", "https://pmc.ncbi.nlm.nih.gov/articles/PMC11324195/"),
+  ("Patel DP, Swink SM, Castelo-Soccio L. A Review of the Use of Biotin for Hair Loss. Skin Appendage Disord, 2017;3(3):166&ndash;169", "https://pmc.ncbi.nlm.nih.gov/articles/PMC5582478/"),
+  ("NIH Office of Dietary Supplements. Biotin: Fact Sheet for Health Professionals", "https://ods.od.nih.gov/factsheets/Biotin-HealthProfessional/"),
+  ("FDA. Testing for Biotin Interference in In Vitro Diagnostic Devices: Guidance for Industry (October 2020)", "https://www.fda.gov/media/127915/download"),
+  ("FDA. Biotin Interference with Troponin Lab Tests: Assays Subject to Biotin Interference (content current as of June 21, 2022)", "https://www.fda.gov/medical-devices/in-vitro-diagnostics/biotin-interference-troponin-lab-tests-assays-subject-biotin-interference")]),
+
+
+article("/hair/thyroid-hair-loss/", "/hair/", "Hair",
+ "Thyroid and Hair Loss in Women: Which Tests to Ask About",
+ "Thyroid and hair loss: which tests to ask about",
+ "How an underactive or overactive thyroid is linked to hair shedding in women, how common thyroid problems are, and which blood tests check for them.",
+ "2026-11-21",
+ "Thinning hair is one of the listed symptoms of an underactive thyroid, and thyroid problems are common in women in midlife. Here&rsquo;s what the official sources and research say, and what testing usually looks like.",
+ "Yes, thyroid problems can be linked to hair loss in women. NIH lists dry, thinning hair as a symptom of an underactive thyroid (hypothyroidism), and a 2024 study of 500 women with sudden shedding found an underactive or overactive thyroid in 252 of them. <b>The usual first test is a TSH blood test, often followed by free T4 and other thyroid tests if the result is off. Symptoms alone can&rsquo;t diagnose it.</b>",
+ "human-obs",
+ [("Best evidence", "A 2024 retrospective study (<i>Medicine</i>) of 500 women with telogen effluvium, plus NIH and US Office on Women&rsquo;s Health guidance"),
+  ("Women included?", "Yes. The study included only women 18 and older"),
+  ("Dose or protocol tested", "Not a treatment study. Women had blood tests for TSH, free T4 and free T3"),
+  ("Bottom line", "Thyroid problems are common in women and can show up as shedding. A blood test, not a symptom checklist, tells you whether your thyroid is involved")],
+ """<h2>Can thyroid problems cause hair loss?</h2>
+<p>Your thyroid is a small gland in your neck that makes hormones controlling how your body uses energy. It can make too little (hypothyroidism, or underactive thyroid) or too much (hyperthyroidism, or overactive thyroid).</p>
+<p>The National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) lists &ldquo;dry, thinning hair&rdquo; among the symptoms of hypothyroidism, along with fatigue, weight gain, trouble tolerating cold, joint and muscle pain, dry skin, heavy or irregular periods, a slowed heart rate and depression. The US Office on Women&rsquo;s Health lists dry, thinning hair too.</p>
+<p>NIDDK&rsquo;s hyperthyroidism page doesn&rsquo;t list hair changes. Its symptoms include weight loss despite a bigger appetite, a fast or irregular heartbeat, nervousness, trouble sleeping, shaky hands, sweating and frequent bowel movements.</p>
+<p><b>Hypothyroidism develops slowly, so NIDDK says you may not notice symptoms for months or even years.</b></p>
+
+<h2>How common is thyroid disease in women?</h2>
+<ul>
+<li><b>Underactive thyroid:</b> NIDDK says nearly 5 out of 100 Americans 12 and older have hypothyroidism, most with mild or few obvious symptoms. Women are much more likely than men to develop it, and it&rsquo;s more common after 60.</li>
+<li><b>Overactive thyroid:</b> about 1 in 100 Americans 12 and older, more often women and people over 60.</li>
+<li><b>Over a lifetime:</b> the Office on Women&rsquo;s Health says one in eight women will develop a thyroid problem. It says women are especially likely to develop thyroid disease right after pregnancy and after menopause.</li>
+</ul>
+<p>The same office notes that thyroid symptoms are sometimes mistaken for menopause symptoms. That matters in your 40s, when shedding, tiredness and period changes can all have more than one cause.</p>
+<p>NIDDK names Hashimoto&rsquo;s disease, an autoimmune condition, as the most common cause of hypothyroidism, and Graves&rsquo; disease as the most common cause of hyperthyroidism.</p>
+
+<h2>What one study of thyroid and hair loss found</h2>
+<p>A 2024 study in the journal <i>Medicine</i> (Bin Dayel and colleagues) looked back at records from one dermatology clinic in Saudi Arabia from 2012 to 2022.</p>
+<table>
+<tr><th>Detail</th><th>What the study reported</th></tr>
+<tr><td>Who</td><td>500 women 18 and older with telogen effluvium (sudden, diffuse shedding) who had thyroid blood tests</td></tr>
+<tr><td>Design</td><td>Retrospective (a look back at existing records), single clinic</td></tr>
+<tr><td>Thyroid results</td><td>248 normal, 150 underactive, 102 overactive</td></tr>
+<tr><td>Severity</td><td>Women with an underactive thyroid had more severe hair loss on average; 34% had severe loss, vs 18% of women with normal thyroid tests and 20% with an overactive thyroid</td></tr>
+</table>
+<p>The authors concluded that thyroid problems, especially hypothyroidism, are a common cause of telogen effluvium, and that thyroid testing belongs in the workup. <b>The limits are real: this was one clinic, looking backward, with women who had already been sent for testing, so it can&rsquo;t tell you how likely thyroid disease is for any one woman with shedding.</b> The authors also note that hair-loss scoring was subjective.</p>
+<p>Researchers think an underactive thyroid disrupts the hair growth cycle, holding more hairs in the resting phase, according to the study&rsquo;s discussion. How an overactive thyroid affects hair is not fully understood. For more on that resting-phase shedding, see <a href="/hair/telogen-effluvium/">telogen effluvium</a>.</p>
+
+<h2>Thyroid tests for hair loss: what to ask about</h2>
+<p>NIDDK is clear that a hypothyroidism diagnosis can&rsquo;t be based on symptoms alone. Doctors use a history, an exam, and blood tests. According to MedlinePlus (from the National Library of Medicine) and the Office on Women&rsquo;s Health:</p>
+<table>
+<tr><th>Test</th><th>What it measures</th></tr>
+<tr><td>TSH (thyroid-stimulating hormone)</td><td>A hormone from the pituitary gland that tells the thyroid how much hormone to make. When thyroid hormone is low, TSH goes up; when it&rsquo;s high, TSH drops. Usually the first test</td></tr>
+<tr><td>T4 (free or total)</td><td>The main thyroid hormone. Often ordered if TSH is abnormal</td></tr>
+<tr><td>T3</td><td>Another thyroid hormone, sometimes checked too</td></tr>
+<tr><td>Thyroid antibodies</td><td>Help check for autoimmune causes such as Hashimoto&rsquo;s or Graves&rsquo; disease</td></tr>
+</table>
+<p>MedlinePlus notes that TSH alone can&rsquo;t show what is causing a thyroid problem, and that pregnancy, serious illness and older age can shift results. Ask before your blood draw whether you need to stop any medicine, but don&rsquo;t stop one unless you&rsquo;re told to.</p>
+<p><b>One easy-to-miss detail: high-dose biotin, common in hair supplements, can skew thyroid test results.</b> NIH&rsquo;s Office of Dietary Supplements describes cases where biotin made results falsely look like an overactive thyroid. Tell your clinician and lab if you take it; see <a href="/hair/biotin-for-hair/">biotin for hair</a>.</p>
+<p>The Office on Women&rsquo;s Health says screening for thyroid disease isn&rsquo;t recommended for most women. Testing is about your symptoms and history, so describe the shedding, when it started and anything else you&rsquo;ve noticed.</p>
+
+<h2>Will hair grow back after thyroid treatment?</h2>
+<p>None of the official sources we checked give a timeline for hair recovery after thyroid treatment, and the 2024 study didn&rsquo;t follow women after treatment. What is clear is that a thyroid problem is a cause to treat directly. The label for over-the-counter minoxidil for women says it won&rsquo;t help hair loss related to hypothyroidism.</p>
+<p>Thyroid treatment is a decision for you and your clinician. Don&rsquo;t start, stop or change a thyroid medicine based on your hair.</p>
+
+<h2>What this means for you</h2>
+<ul>
+<li><b>Thinning hair plus tiredness, feeling cold, weight or period changes</b> is worth raising with your clinician, especially if thyroid problems run in your family.</li>
+<li><b>Thyroid isn&rsquo;t the only lab cause.</b> MedlinePlus says clinicians check for thyroid disease and iron deficiency when assessing female pattern hair loss; see <a href="/hair/iron-ferritin-hair-loss/">iron, ferritin and hair loss</a>.</li>
+<li><b>Hair loss often has more than one cause in midlife.</b> Start with <a href="/hair/female-hair-loss-causes/">hair loss in women: causes and how to tell them apart</a>.</li>
+</ul>
+<p>Questions to ask your clinician or a board-certified dermatologist:</p>
+<ul>
+<li>Should my thyroid be checked, and which tests will you order?</li>
+<li>If my TSH is normal, do I need any other thyroid tests?</li>
+<li>Could any supplement I take, like biotin, affect the results?</li>
+<li>What else could be causing my shedding?</li>
+</ul>
+<p>More in the <a href="/hair/">Hair</a> hub, including <a href="/hair/hair-thinning-perimenopause/">hair thinning in perimenopause</a>.</p>""",
+ [("Bin Dayel S, Hussein RS, Atia T, Abahussein O, Al Yahya RS, Elsayed SH. Is thyroid dysfunction a common cause of telogen effluvium?: A retrospective study. Medicine (Baltimore), 2024;103(1):e36803", "https://pmc.ncbi.nlm.nih.gov/articles/PMC10766245/"),
+  ("NIDDK. Hypothyroidism (Underactive Thyroid) (reviewed March 2021)", "https://www.niddk.nih.gov/health-information/endocrine-diseases/hypothyroidism"),
+  ("NIDDK. Hyperthyroidism (Overactive Thyroid) (reviewed August 2021)", "https://www.niddk.nih.gov/health-information/endocrine-diseases/hyperthyroidism"),
+  ("US Office on Women&rsquo;s Health. Thyroid disease", "https://womenshealth.gov/a-z-topics/thyroid-disease"),
+  ("MedlinePlus Medical Tests. TSH (Thyroid-stimulating hormone) Test", "https://medlineplus.gov/lab-tests/tsh-thyroid-stimulating-hormone-test/"),
+  ("NIH Office of Dietary Supplements. Biotin: Fact Sheet for Health Professionals", "https://ods.od.nih.gov/factsheets/Biotin-HealthProfessional/"),
+  ("DailyMed (National Library of Medicine). Label: Minoxidil 5% (for women) topical foam", "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=dbda95f2-11a8-4b2f-af45-b791342fff70"),
+  ("MedlinePlus Medical Encyclopedia. Female pattern baldness (reviewed January 28, 2026)", "https://medlineplus.gov/ency/article/001173.htm")]),
+
+
+article("/hair/hair-thinning-perimenopause/", "/hair/", "Hair",
+ "Hair Thinning in Perimenopause: Causes and What Helps",
+ "Hair thinning in perimenopause: causes and what helps",
+ "Why hair often thins around menopause, the medical causes to rule out, and what the evidence says about minoxidil, spironolactone, PRP and supplements.",
+ "2026-11-21",
+ "A wider part, a see-through crown, more hair in the brush. Hair changes are common in the years around menopause. Here&rsquo;s what the research says is going on and which options have evidence behind them.",
+ "Hair thinning in perimenopause is often female pattern hair loss, which a 2022 dermatology review says commonly shows up around menopause, when falling estrogen is thought to play a part. <b>Thyroid disease and low iron are worth ruling out, and topical minoxidil is the only FDA-approved medicine for female pattern hair loss.</b> Evidence for other options is thinner.",
+ "review",
+ [("Best evidence", "A 2022 review on menopause and hair (<i>Clinical and Experimental Dermatology</i>); FDA-approved labeling for topical minoxidil; 2023 reviews of spironolactone"),
+  ("Women included?", "Yes. The reviews focus on women; the spironolactone reviews pooled studies of mostly or only women"),
+  ("Dose or protocol tested", "Over-the-counter minoxidil 5% foam for women is labeled for once-daily use on the scalp"),
+  ("Bottom line", "Find the cause first. Minoxidil has the strongest evidence; spironolactone, PRP and lasers have some; HRT and most supplements lack good evidence for hair")],
+ """<h2>Why does hair thin in perimenopause?</h2>
+<p>Perimenopause is the run-up to menopause, when ovulation and periods become irregular and hot flashes may start. Menopause usually happens between 45 and 55, according to a 2022 review by Kamp and colleagues in <i>Clinical and Experimental Dermatology</i>.</p>
+<p>Estrogen is thought to keep hairs in their growing phase longer. As estrogen falls, the review says, studies have found a smaller share of growing hairs in postmenopausal women, more over the front and top of the scalp than the back. Androgens (hormones such as testosterone) can hold back scalp follicles, but the review says falling estrogen is thought to be the bigger factor in women. <b>Most women with this kind of thinning have normal androgen levels.</b> Genes matter too.</p>
+<p>MedlinePlus adds that hair naturally grows more slowly with age, and strands become finer and lighter. Nearly everyone has some hair loss with aging.</p>
+
+<h2>Female pattern hair loss vs telogen effluvium</h2>
+<p>Two kinds of hair loss are most common in midlife, and they behave differently:</p>
+<table>
+<tr><th></th><th>Female pattern hair loss</th><th>Telogen effluvium</th></tr>
+<tr><td>What you notice</td><td>Gradual thinning on the top and crown, often starting as a widening part; the front hairline usually stays</td><td>Diffuse shedding all over the scalp, for example after childbirth</td></tr>
+<tr><td>What&rsquo;s happening</td><td>Follicles slowly shrink and make finer, shorter hairs</td><td>More hairs than usual move into the resting phase and fall out</td></tr>
+<tr><td>Course</td><td>Ongoing; MedlinePlus says untreated loss is permanent but rarely leads to near-total baldness</td><td>Depends on the trigger; see our telogen effluvium guide</td></tr>
+</table>
+<p>The two can overlap. Read more in <a href="/hair/telogen-effluvium/">telogen effluvium</a> and <a href="/hair/female-hair-loss-causes/">hair loss in women: causes and how to tell them apart</a>.</p>
+<p>The Kamp review also flags frontal fibrosing alopecia, a scarring condition linked to the perimenopausal years that causes the hairline at the front and temples to recede and can affect the eyebrows. <b>Because it causes scarring, a receding front hairline is worth showing to a dermatologist promptly.</b></p>
+
+<h2>Medical causes worth ruling out</h2>
+<p>MedlinePlus says a clinician diagnosing female pattern hair loss checks for other causes, such as thyroid disease or iron deficiency, and for signs of too much androgen: unusual hair growth, period changes or new acne. The Kamp review adds that hormone tests are sometimes warranted when those signs are present, but that testing usually isn&rsquo;t needed unless hair loss is severe or fast.</p>
+<ul>
+<li><b>Thyroid:</b> an underactive thyroid lists dry, thinning hair among its symptoms, and the US Office on Women&rsquo;s Health says thyroid disease is more likely after menopause. See <a href="/hair/thyroid-hair-loss/">thyroid and hair loss</a>.</li>
+<li><b>Iron:</b> MedlinePlus lists heavy menstrual bleeding among possible factors in female pattern hair loss, and iron deficiency among the causes to check. See <a href="/hair/iron-ferritin-hair-loss/">iron, ferritin and hair loss</a>.</li>
+<li><b>Medicines:</b> MedlinePlus names some medicines, including estrogen-containing birth control pills, among possible contributors. Don&rsquo;t stop any medicine on your own; ask your prescriber.</li>
+</ul>
+
+<h2>What helps hair thinning in perimenopause?</h2>
+<table>
+<tr><th>Option</th><th>Status</th><th>What the sources say</th></tr>
+<tr><td>Topical minoxidil</td><td>FDA-approved, over the counter</td><td>MedlinePlus says it may help hair grow in about 1 in 4 or 5 women and may slow or stop loss in most. The label says results may take 3 to 6 months, shedding can rise for up to 2 weeks at first, and regrown hair is likely lost within 3 to 4 months of stopping</td></tr>
+<tr><td>Spironolactone (oral)</td><td>Prescription; not FDA-approved for hair loss</td><td>A 2023 meta-analysis of 5 studies (413 patients) found 56.6% improved overall, with higher rates when combined with minoxidil; the author called the evidence limited. See <a href="/hair/spironolactone-hair-loss-women/">spironolactone for hair loss</a></td></tr>
+<tr><td>Oral minoxidil</td><td>Prescription; not FDA-approved for hair loss</td><td>Listed in the Kamp review as an option, with caution for people with heart conditions. See <a href="/hair/minoxidil-for-women/">minoxidil for women</a></td></tr>
+<tr><td>PRP and low-level laser</td><td>In-office or device-based</td><td>MedlinePlus lists both as options if minoxidil doesn&rsquo;t work; the Kamp review says more research is needed on PRP outcomes</td></tr>
+<tr><td>Hair transplant</td><td>Surgery</td><td>MedlinePlus says results can be excellent for women who don&rsquo;t respond to medicine, but it can take many sessions and carries some scarring and infection risk</td></tr>
+</table>
+<p>Finasteride and dutasteride are also discussed in the Kamp review. They are prescription drugs not approved for women&rsquo;s hair loss, and the review notes contraception is advised for premenopausal women taking dutasteride.</p>
+<p><b>Minoxidil works only while you use it, and none of these options is a quick fix.</b> MedlinePlus also notes that if you&rsquo;re comfortable with your appearance, you don&rsquo;t need treatment, and that styling changes and hairpieces are often the safest and least expensive route.</p>
+
+<h2>Does HRT help with menopausal hair thinning?</h2>
+<p>Not on current evidence. The Kamp review says there is insufficient evidence for hormone therapy as a treatment for female pattern hair loss, and that surprisingly little research has looked at hormone therapy and hair. Decisions about hormone therapy are about your overall health, made with your clinician, not about your hair alone.</p>
+
+<h2>Biotin and &ldquo;hair vitamins&rdquo;</h2>
+<p>NIH&rsquo;s Office of Dietary Supplements says claims for biotin for hair rest, at best, on a few case reports and small studies, and a 2024 review found no studies showing benefit in healthy people. The Kamp review says more research is needed on supplements for hair. <b>High-dose biotin can also cause falsely high or low results on some lab tests, including thyroid and heart tests, FDA warns.</b> Details are in <a href="/hair/biotin-for-hair/">biotin for hair</a>.</p>
+
+<h2>The honest bottom line</h2>
+<ul>
+<li><b>Thinning around menopause is common</b> and is usually female pattern hair loss, sometimes mixed with shedding from another cause.</li>
+<li><b>Get the cause checked</b>, especially thyroid and iron, before spending on products.</li>
+<li><b>See a dermatologist promptly</b> for sudden or patchy loss, a receding front hairline, scalp pain, itching or redness.</li>
+</ul>
+<p>Questions to ask a board-certified dermatologist:</p>
+<ul>
+<li>Is this female pattern hair loss, shedding, or both?</li>
+<li>Which blood tests make sense for me?</li>
+<li>Is topical minoxidil a reasonable first step, and how long should I give it?</li>
+<li>Are prescription options right for my health history?</li>
+</ul>
+<p>More in the <a href="/hair/">Hair</a> hub.</p>""",
+ [("Kamp E, Ashraf M, Musbahi E, DeGiovanni C. Menopause, skin and common dermatoses. Part 1: hair disorders. Clin Exp Dermatol, 2022;47(12):2110&ndash;2116", "https://pmc.ncbi.nlm.nih.gov/articles/PMC10092469/"),
+  ("Aleissa M. The Efficacy and Safety of Oral Spironolactone in the Treatment of Female Pattern Hair Loss: A Systematic Review and Meta-Analysis. Cureus, 2023;15(8):e43559", "https://assets.cureus.com/uploads/review_article/pdf/166490/20230915-13630-10cfn21.pdf"),
+  ("DailyMed (National Library of Medicine). Label: Minoxidil 5% (for women) topical foam", "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=dbda95f2-11a8-4b2f-af45-b791342fff70"),
+  ("MedlinePlus Medical Encyclopedia. Female pattern baldness (reviewed January 28, 2026)", "https://medlineplus.gov/ency/article/001173.htm"),
+  ("MedlinePlus Medical Encyclopedia. Aging changes in hair and nails (reviewed July 15, 2024)", "https://medlineplus.gov/ency/article/004005.htm"),
+  ("US Office on Women&rsquo;s Health. Thyroid disease", "https://womenshealth.gov/a-z-topics/thyroid-disease"),
+  ("NIDDK. Hypothyroidism (Underactive Thyroid)", "https://www.niddk.nih.gov/health-information/endocrine-diseases/hypothyroidism"),
+  ("NIH Office of Dietary Supplements. Biotin: Fact Sheet for Health Professionals", "https://ods.od.nih.gov/factsheets/Biotin-HealthProfessional/"),
+  ("Yelich A, Jenkins H, Holt S, Miller R. Biotin for Hair Loss: Teasing Out the Evidence. J Clin Aesthet Dermatol, 2024;17(8):56&ndash;61", "https://pmc.ncbi.nlm.nih.gov/articles/PMC11324195/"),
+  ("FDA. Testing for Biotin Interference in In Vitro Diagnostic Devices: Guidance for Industry (October 2020)", "https://www.fda.gov/media/127915/download")]),
+
+
+article("/hair/spironolactone-hair-loss-women/", "/hair/", "Hair",
+ "Spironolactone for Hair Loss in Women: The Evidence",
+ "Spironolactone for female pattern hair loss: the evidence",
+ "Spironolactone is used off-label for female pattern hair loss. What reviews of the studies found, side effects, and why it isn&rsquo;t used in pregnancy.",
+ "2026-11-21",
+ "Spironolactone is a decades-old blood pressure and heart medicine that dermatologists sometimes prescribe for thinning hair in women. Here&rsquo;s what the studies show, what they don&rsquo;t, and what to ask before trying it.",
+ "Spironolactone is not FDA-approved for hair loss, but it&rsquo;s prescribed off-label for female pattern hair loss as an anti-androgen. A 2023 meta-analysis of 5 studies found that 56.6% of patients improved, more when it was combined with minoxidil. <b>The evidence is mostly small, non-randomized studies, and the drug&rsquo;s label says to avoid it in pregnancy because of possible effects on a male fetus.</b>",
+ "review",
+ [("Best evidence", "A 2023 meta-analysis (<i>Cureus</i>, 5 studies, 413 patients) and a 2023 systematic review (<i>Clinical, Cosmetic and Investigational Dermatology</i>, 7 studies, 618 patients)"),
+  ("Women included?", "Yes. The oral studies in the 2023 systematic review were all in women (295)"),
+  ("Dose or protocol tested", "Oral doses from 25 mg to 200 mg a day, mostly 80 to 110 mg, usually for 6 months to over a year"),
+  ("Bottom line", "Promising but low-quality evidence, with only one or two randomized trials. A prescription decision that needs a clinician and some monitoring")],
+ """<h2>What is spironolactone, and why is it used for hair loss?</h2>
+<p>Spironolactone was first approved in the US in 1960. Its FDA-approved uses, per the current label, are certain kinds of heart failure, high blood pressure, fluid buildup from liver or kidney disease, and a hormone condition called primary hyperaldosteronism. Hair loss is not on the list.</p>
+<p>Dermatologists use it &ldquo;off-label&rdquo; (for a use the FDA hasn&rsquo;t approved) because it acts as an anti-androgen. Androgens are hormones such as testosterone that can hold back scalp hair follicles, according to a 2022 dermatology review by Kamp and colleagues. MedlinePlus lists it among the options when topical minoxidil, the only FDA-approved medicine for female pattern hair loss, doesn&rsquo;t work. The Kamp review lists it among treatments for menopause-related hair loss.</p>
+<p><b>Off-label prescribing is legal and common, but it means the drug hasn&rsquo;t gone through FDA review for this use.</b></p>
+
+<h2>Spironolactone for female pattern hair loss: what the studies show</h2>
+<p>Two 2023 reviews pulled the research together:</p>
+<table>
+<tr><th>Review</th><th>What was included</th><th>Main findings</th></tr>
+<tr><td>Aleissa, <i>Cureus</i> (systematic review and meta-analysis)</td><td>5 studies of oral spironolactone for female pattern hair loss, 413 patients; only one was a randomized trial</td><td>56.6% improved overall; 65.8% when combined with minoxidil vs 43.2% on spironolactone alone. Results varied a lot between studies</td></tr>
+<tr><td>Wang and colleagues, <i>Clinical, Cosmetic and Investigational Dermatology</i> (systematic review)</td><td>7 studies of androgenetic alopecia, 618 patients (553 women); 5 oral studies, all in women; 2 randomized trials</td><td>81% (158 of 195) reported better hair growth in four oral studies; combination with minoxidil did better than single treatment in the three studies that compared them</td></tr>
+</table>
+<p>A few individual studies give a sense of the details:</p>
+<ul>
+<li><b>Sinclair, 2005:</b> 80 women followed for an average of 16 months on oral anti-androgens; 80% had no further progression or improved.</li>
+<li><b>Famenini, 2015:</b> 19 women; 74.3% reported improvement or stabilization.</li>
+<li><b>Sinclair, 2018:</b> 100 women on low-dose spironolactone plus low-dose oral minoxidil for 12 months; shedding and density scores improved over time. There was no comparison group.</li>
+<li><b>Liang, 2022:</b> the one randomized trial in the meta-analysis, 115 patients over 24 weeks. Topical minoxidil plus microneedling did better than minoxidil plus oral spironolactone or minoxidil alone.</li>
+</ul>
+<p>Doses in the studies ranged from 25 to 200 mg a day, most between 80 and 110 mg. These are the doses that were tested, not a recommendation; dosing is for your clinician to decide.</p>
+<p><b>Both reviews call for better trials.</b> The meta-analysis author noted the small number of patients, the mix of study designs and doses, and wide variation in results. The systematic review authors couldn&rsquo;t pool results because studies measured hair differently. The meta-analysis reported no funding; the systematic review was funded by a national science grant in China, and both reported no conflicts of interest.</p>
+
+<h2>Side effects of spironolactone</h2>
+<p>In the hair-loss studies, side effects were usually mild. In the systematic review&rsquo;s safety data from 216 people on oral spironolactone:</p>
+<table>
+<tr><th>Side effect</th><th>How often</th></tr>
+<tr><td>Menstrual changes</td><td>7.9%</td></tr>
+<tr><td>Dizziness or headache</td><td>6.5%</td></tr>
+<tr><td>Unwanted facial hair</td><td>4.1%</td></tr>
+<tr><td>High potassium</td><td>0.9% (2 people)</td></tr>
+<tr><td>Stopped because of side effects</td><td>3.2%</td></tr>
+</table>
+<p>The authors noted side effects were more common at 80 to 110 mg a day than at 25 mg. In one randomized trial in the meta-analysis, 40.5% of patients reported menstrual changes, so rates differ a lot between studies.</p>
+<p>The FDA label lists warnings for <b>high potassium</b>, low blood pressure, worsening kidney function and other electrolyte changes, and says potassium should be checked within a week of starting and regularly after. It lists irregular or missed periods, postmenopausal bleeding, and breast and nipple pain among reproductive side effects. MedlinePlus advises avoiding potassium-containing salt substitutes. Drugs that raise potassium, including potassium supplements, some blood pressure medicines (ACE inhibitors and ARBs), NSAID pain relievers and trimethoprim, can interact.</p>
+<p>MedlinePlus also notes that spironolactone has caused tumors in laboratory animals. That is an animal finding; ask your prescriber what it means for you.</p>
+
+<h2>Why spironolactone isn&rsquo;t used in pregnancy</h2>
+<p>The FDA label says that, based on animal studies, spironolactone may affect how a male fetus develops sexually. In rats given high doses late in pregnancy, male fetuses showed feminization. The label says to avoid spironolactone in pregnancy or advise of the potential risk to a male fetus. <b>If you could become pregnant, ask your clinician about this before starting.</b></p>
+
+<h2>What this means for you</h2>
+<ul>
+<li><b>Spironolactone has some evidence for female pattern hair loss,</b> especially alongside minoxidil, but the studies are small and mostly not randomized.</li>
+<li><b>It&rsquo;s a prescription drug with real monitoring needs,</b> especially for potassium and kidney function.</li>
+<li><b>Get the cause confirmed first.</b> Shedding from <a href="/hair/telogen-effluvium/">telogen effluvium</a>, <a href="/hair/thyroid-hair-loss/">thyroid problems</a> or <a href="/hair/iron-ferritin-hair-loss/">low iron</a> needs a different approach. See <a href="/hair/female-hair-loss-causes/">hair loss in women: causes</a>.</li>
+</ul>
+<p>Questions to ask a board-certified dermatologist:</p>
+<ul>
+<li>Is my hair loss female pattern hair loss, and how sure are you?</li>
+<li>Should I try <a href="/hair/minoxidil-for-women/">topical minoxidil</a> first, or combine treatments?</li>
+<li>Do my other medicines or health conditions make spironolactone risky for me?</li>
+<li>Which blood tests will I need, and how often?</li>
+<li>What should I do about contraception while taking it?</li>
+<li>How long before we judge whether it&rsquo;s working?</li>
+</ul>
+<p>More in the <a href="/hair/">Hair</a> hub, including <a href="/hair/hair-thinning-perimenopause/">hair thinning in perimenopause</a>.</p>""",
+ [("Aleissa M. The Efficacy and Safety of Oral Spironolactone in the Treatment of Female Pattern Hair Loss: A Systematic Review and Meta-Analysis. Cureus, 2023;15(8):e43559", "https://assets.cureus.com/uploads/review_article/pdf/166490/20230915-13630-10cfn21.pdf"),
+  ("Wang C, Du Y, Bi L, Lin X, Zhao M, Fan W. The Efficacy and Safety of Oral and Topical Spironolactone in Androgenetic Alopecia Treatment: A Systematic Review. Clin Cosmet Investig Dermatol, 2023;16:603&ndash;612", "https://www.dovepress.com/the-efficacy-and-safety-of-oral-and-topical-spironolactone-in-androgen-peer-reviewed-fulltext-article-CCID"),
+  ("DailyMed (National Library of Medicine). Aldactone (spironolactone) tablets prescribing information (revised November 2025)", "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc"),
+  ("MedlinePlus Drug Information. Spironolactone", "https://medlineplus.gov/druginfo/meds/a682627.html"),
+  ("MedlinePlus Medical Encyclopedia. Female pattern baldness (reviewed January 28, 2026)", "https://medlineplus.gov/ency/article/001173.htm"),
+  ("Kamp E, Ashraf M, Musbahi E, DeGiovanni C. Menopause, skin and common dermatoses. Part 1: hair disorders. Clin Exp Dermatol, 2022;47(12):2110&ndash;2116", "https://pmc.ncbi.nlm.nih.gov/articles/PMC10092469/")]),
+
+
 ]

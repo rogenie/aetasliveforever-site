@@ -177,11 +177,11 @@
    "url": "https://aetasliveforever.com/hair/telogen-effluvium/"
   },
   {
-   "date": "2026-11-18",
+   "date": "2026-11-21",
    "hub": "hair",
    "path": "/hair/biotin-for-hair/",
    "title": "Biotin for hair: does it work, and the lab-test warning",
-   "status": "todo",
+   "status": "published",
    "kind": "evergreen",
    "brief": {
     "angle": "Evidence for biotin in people without deficiency (reviews), how rare deficiency is (NIH ODS), and the FDA safety communication that biotin can interfere with lab tests including troponin and thyroid tests. Say plainly what the evidence does and doesn't show.",
@@ -189,14 +189,16 @@
      "/hair/",
      "/hair/female-hair-loss-causes/"
     ]
-   }
+   },
+   "note": "Catch-up: originally scheduled 2026-11-18; earlier runs missed it, published 2026-11-21.",
+   "url": "https://aetasliveforever.com/hair/biotin-for-hair/"
   },
   {
-   "date": "2026-11-19",
+   "date": "2026-11-21",
    "hub": "hair",
    "path": "/hair/thyroid-hair-loss/",
    "title": "Thyroid and hair loss: which tests to ask about",
-   "status": "todo",
+   "status": "published",
    "kind": "evergreen",
    "brief": {
     "angle": "How hypothyroidism and hyperthyroidism affect hair (NIH/NIDDK, ATA sources), how common thyroid disease is in women, typical tests (TSH, free T4) and why hair often takes months to recover after treatment. No treatment advice.",
@@ -204,25 +206,29 @@
      "/hair/",
      "/hair/female-hair-loss-causes/"
     ]
-   }
+   },
+   "note": "Catch-up: originally scheduled 2026-11-19; earlier runs missed it, published 2026-11-21.",
+   "url": "https://aetasliveforever.com/hair/thyroid-hair-loss/"
   },
   {
-   "date": "2026-11-20",
+   "date": "2026-11-21",
    "hub": "hair",
    "path": "/hair/hair-thinning-perimenopause/",
    "title": "Hair thinning in perimenopause: causes and what helps",
-   "status": "todo",
+   "status": "published",
    "kind": "evergreen",
    "brief": {
     "angle": "Female pattern hair loss vs. telogen effluvium; how hormones change around menopause; the medical causes worth ruling out (iron/ferritin, thyroid, B12, vitamin D) per NIH and dermatology society sources; topical minoxidil (FDA-approved for women) and the trial evidence; what's known about oral minoxidil, spironolactone, PRP and low-level light from trials; biotin and 'hair vitamins' (NIH ODS; FDA warning on biotin interfering with lab tests). When to see a dermatologist."
-   }
+   },
+   "note": "Catch-up: originally scheduled 2026-11-20; earlier runs missed it, published 2026-11-21.",
+   "url": "https://aetasliveforever.com/hair/hair-thinning-perimenopause/"
   },
   {
    "date": "2026-11-21",
    "hub": "hair",
    "path": "/hair/spironolactone-hair-loss-women/",
    "title": "Spironolactone for female pattern hair loss: the evidence",
-   "status": "todo",
+   "status": "published",
    "kind": "evergreen",
    "brief": {
     "angle": "Off-label use, how it works (anti-androgen), what studies and reviews found, side effects, why it's not used in pregnancy, monitoring per sources. Prescription only; questions to ask a dermatologist. No dose recommendations.",
@@ -230,7 +236,8 @@
      "/hair/",
      "/hair/female-hair-loss-causes/"
     ]
-   }
+   },
+   "url": "https://aetasliveforever.com/hair/spironolactone-hair-loss-women/"
   },
   {
    "date": "2026-11-22",

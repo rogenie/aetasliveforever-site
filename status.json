@@ -1,5 +1,5 @@
 {
- "built": "2026-11-17",
+ "built": "2026-11-21",
  "cadence": "Daily. Mon/Fri: evergreen and trending articles across Body, Beauty and Longevity. Wed: research news when the scout finds one. Every other day, and any Mon/Wed/Fri left open: a Hair article (_src/TOPICS.md, \"Daily Hair\").",
  "items": [
   {
@@ -94,24 +94,32 @@
    "url": "https://aetasliveforever.com/hair/telogen-effluvium/"
   },
   {
-   "date": "2026-11-18",
+   "date": "2026-11-21",
    "hub": "hair",
-   "status": "todo"
-  },
-  {
-   "date": "2026-11-19",
-   "hub": "hair",
-   "status": "todo"
-  },
-  {
-   "date": "2026-11-20",
-   "hub": "hair",
-   "status": "todo"
+   "status": "written",
+   "title": "Biotin for hair: does it work, and the lab-test warning",
+   "url": "https://aetasliveforever.com/hair/biotin-for-hair/"
   },
   {
    "date": "2026-11-21",
    "hub": "hair",
-   "status": "todo"
+   "status": "written",
+   "title": "Thyroid and hair loss: which tests to ask about",
+   "url": "https://aetasliveforever.com/hair/thyroid-hair-loss/"
+  },
+  {
+   "date": "2026-11-21",
+   "hub": "hair",
+   "status": "written",
+   "title": "Hair thinning in perimenopause: causes and what helps",
+   "url": "https://aetasliveforever.com/hair/hair-thinning-perimenopause/"
+  },
+  {
+   "date": "2026-11-21",
+   "hub": "hair",
+   "status": "written",
+   "title": "Spironolactone for female pattern hair loss: the evidence",
+   "url": "https://aetasliveforever.com/hair/spironolactone-hair-loss-women/"
   },
   {
    "date": "2026-11-22",
