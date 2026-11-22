@@ -244,7 +244,7 @@
    "hub": "hair",
    "path": "/hair/pumpkin-seed-oil-hair/",
    "title": "Pumpkin seed oil for hair: what the study showed",
-   "status": "todo",
+   "status": "published",
    "kind": "evergreen",
    "brief": {
     "angle": "The 2014 randomized placebo-controlled trial (Cho et al.) in men: design, product tested (a supplement containing pumpkin seed oil), results and limits; any evidence in women. Separate supplement studies from topical claims.",
@@ -252,7 +252,8 @@
      "/hair/",
      "/hair/female-hair-loss-causes/"
     ]
-   }
+   },
+   "url": "https://aetasliveforever.com/hair/pumpkin-seed-oil-hair/"
   },
   {
    "date": "2026-11-23",

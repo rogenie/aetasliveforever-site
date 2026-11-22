@@ -1444,4 +1444,91 @@ article("/hair/spironolactone-hair-loss-women/", "/hair/", "Hair",
   ("Kamp E, Ashraf M, Musbahi E, DeGiovanni C. Menopause, skin and common dermatoses. Part 1: hair disorders. Clin Exp Dermatol, 2022;47(12):2110&ndash;2116", "https://pmc.ncbi.nlm.nih.gov/articles/PMC10092469/")]),
 
 
+article("/hair/pumpkin-seed-oil-hair/", "/hair/", "Hair",
+ "Pumpkin Seed Oil for Hair: What the Study Showed",
+ "Pumpkin seed oil for hair: what the study showed",
+ "Does pumpkin seed oil help hair loss? The placebo-controlled trial studied men taking a capsule. What it found, its limits, and the evidence in women.",
+ "2026-11-22",
+ "Pumpkin seed oil shows up on almost every list of natural hair-loss remedies. Most of those lists lean on one placebo-controlled trial. Here&rsquo;s who was in it, what they actually took, and what it can and can&rsquo;t tell a woman whose hair is thinning.",
+ "One 2014 randomized, placebo-controlled trial found that men with pattern hair loss who took a capsule containing pumpkin seed oil for 24 weeks had more hair than men on placebo. <b>The trial studied only men, was funded by the capsule&rsquo;s maker, and has not been repeated; the only trial in women had no placebo group.</b>",
+ "human-trial",
+ [("Best evidence", "One randomized, double-blind, placebo-controlled trial of 76 men with mild to moderate pattern hair loss (2014)"),
+  ("Women included?", "No. The one trial in women (60 women, 2021) compared topical pumpkin seed oil with minoxidil foam, with no placebo group"),
+  ("Protocol tested", "A capsule supplement providing 400 mg of pumpkin seed oil a day for 24 weeks (men); topical pumpkin seed oil vs. 5% minoxidil foam for 3 months (women)"),
+  ("Bottom line", "An encouraging but small, single, industry-funded result in men. Not enough to know whether pumpkin seed oil helps women&rsquo;s hair loss")],
+ """<h2>Where the pumpkin seed oil for hair claim comes from</h2>
+<p>The study most often cited is a trial by Cho and colleagues, published in 2014 in the journal <i>Evidence-Based Complementary and Alternative Medicine</i>. The authors described it as the first randomized, double-blind, placebo-controlled trial of pumpkin seed oil in men with pattern hair loss (androgenetic alopecia, the most common type of thinning in both men and women).</p>
+<p>A 2026 systematic review of oral hair supplements in the <i>Journal of Cosmetic Dermatology</i> describes the same trial when it discusses pumpkin seed oil. <b>For oral pumpkin seed oil on its own, this is still the key human study.</b></p>
+
+<h2>What the pumpkin seed oil trial tested</h2>
+<ul>
+<li><b>Who:</b> 76 men aged 20 to 65, recruited at a hospital in Korea, (average age about 46) with mild to moderate pattern hair loss. No women were included.</li>
+<li><b>Design:</b> randomized and double-blind. 37 men took the active capsules and 39 took a look-alike placebo. 12 dropped out (5 and 7).</li>
+<li><b>What they took:</b> a branded capsule supplement with 100 mg of pumpkin seed oil per capsule, 4 capsules a day, for a total of 400 mg a day. The paper doesn&rsquo;t list any other ingredients in the capsule, so we can&rsquo;t say whether it contained anything besides pumpkin seed oil. That&rsquo;s the amount tested, not a recommendation; talk to your clinician.</li>
+<li><b>How long:</b> 24 weeks, with checks at 12 and 24 weeks.</li>
+<li><b>What was measured:</b> blinded ratings of standardized scalp photos, the men&rsquo;s own ratings of improvement and satisfaction, and hair count and thickness at the thinnest spot using magnified scalp imaging.</li>
+</ul>
+
+<h2>What did the pumpkin seed oil trial find?</h2>
+<ul>
+<li><b>Hair count:</b> up 40% from the start in the pumpkin seed oil group at 24 weeks, compared with 10% in the placebo group.</li>
+<li><b>Photo ratings:</b> at 24 weeks, 17 of 37 men on pumpkin seed oil were rated slightly or moderately improved, compared with 3 of 39 on placebo. 1 man on pumpkin seed oil and 11 on placebo were rated worse. About half of each group looked unchanged.</li>
+<li><b>Self-ratings:</b> no difference between groups at 12 weeks. By 24 weeks, the pumpkin seed oil group rated their improvement and satisfaction higher, though the average scores were modest (about 3.4 out of 10 vs. about 2.1 for improvement).</li>
+<li><b>Hair thickness:</b> no difference between groups.</li>
+</ul>
+<p><b>So the main gains were in hair count and photo ratings, not in thicker hair.</b></p>
+
+<h2>The limits of one small trial</h2>
+<ul>
+<li><b>Only men.</b> Results in men may not carry over to female pattern hair loss.</li>
+<li><b>Industry funding.</b> The study was paid for by the company that supplied the capsules, and that company also held the randomization codes. The authors declared no conflict of interest.</li>
+<li><b>Not repeated.</b> The authors themselves called it a first-stage study and said it needs to be replicated.</li>
+<li><b>Mechanism unknown.</b> The team didn&rsquo;t measure DHT, the hormone involved in pattern hair loss, so they said they couldn&rsquo;t explain how the oil might work.</li>
+<li><b>Small.</b> 76 men over 6 months is a short, small test for a condition that develops over years.</li>
+</ul>
+<p>The 2026 review of oral hair supplements noted that several of the trials it looked at were funded or supported by supplement makers, and concluded that more rigorous, independent research is needed. A 2026 network meta-analysis in <i>Frontiers in Nutrition</i>, which compared 16 supplements across 19 trials, listed pumpkin seed oil among the supplements that improved hair density compared with placebo, ranking it fifth of 10 for that outcome.</p>
+
+<h2>Is there any pumpkin seed oil study in women?</h2>
+<p>One, and it tested the oil on the scalp, not as a supplement. A 2024 review in <i>Clinical, Cosmetic and Investigational Dermatology</i> summarizes a 2021 randomized trial by Ibrahim and colleagues in the <i>Journal of Cosmetic Dermatology</i>:</p>
+<ul>
+<li><b>Who:</b> 60 women with female pattern hair loss, 30 per group.</li>
+<li><b>Design:</b> randomized and comparative. One group put 1 mL of pumpkin seed oil on the scalp; the other used 1 mL of 5% minoxidil foam (see <a href="/hair/minoxidil-for-women/">our minoxidil guide</a>). There was no placebo group.</li>
+<li><b>How long:</b> 3 months.</li>
+<li><b>Found:</b> a hair-shaft measure the review calls &ldquo;hair shaft diversity&rdquo; improved in both groups (from about 30.5% to 24.0% with pumpkin seed oil and from 31.5% to 21.3% with minoxidil). The review doesn&rsquo;t report a head-to-head comparison.</li>
+</ul>
+<p><b>Without a placebo group, this study can&rsquo;t show how much of the change came from the oil itself.</b> We could not open the full trial report in this run, so details beyond the review&rsquo;s summary aren&rsquo;t included here.</p>
+<p>A 2025 review in the <i>International Journal of Trichology</i> also describes a study of a topical serum of pumpkin seed oil in tiny lipid carriers (niosomes), in 42 people over 8 weeks, which reported changes in hair shedding and in the share of growing hairs. The review graded it as non-randomized, lower-level evidence, and the sex of participants wasn&rsquo;t given.</p>
+
+<h2>Lab and animal studies: an idea, not proof</h2>
+<p>The usual explanation for why pumpkin seed oil might help is that its plant sterols, especially beta-sitosterol, block 5-alpha-reductase, the enzyme that makes DHT. Reviews present this as a possibility. In one mouse study described in the 2024 review, mice given testosterone to cause hair loss grew more hair with 10% pumpkin seed oil, as they did with 2% minoxidil. <b>Mouse results don&rsquo;t tell us what the oil does for women.</b></p>
+
+<h2>Pumpkin seed oil safety: what the trial reported</h2>
+<p>In the 2014 trial, side effects were few and similar between groups: whole-body itching in 1 man on pumpkin seed oil and 1 on placebo, and mild stomach discomfort in 1 man on pumpkin seed oil. The authors reported no changes in average liver or kidney blood tests in the pumpkin seed oil group; at 24 weeks, 1 man on pumpkin seed oil and 2 on placebo had a raised liver-enzyme reading. That&rsquo;s 24 weeks of data in 37 men, so it can&rsquo;t speak to longer use, women, pregnancy or interactions with medications. Talk to your clinician before starting any supplement.</p>
+
+<h2>Pumpkin seed oil studies at a glance</h2>
+<table>
+<tr><th>Study</th><th>Who</th><th>Design</th><th>Length</th><th>Result</th></tr>
+<tr><td>Cho et al., 2014</td><td>76 men, 20&ndash;65, pattern hair loss</td><td>Randomized, double-blind, placebo-controlled; 400 mg/day oral pumpkin seed oil capsule; maker-funded</td><td>24 weeks</td><td>Hair count +40% vs. +10% placebo; no change in thickness</td></tr>
+<tr><td>Ibrahim et al., 2021 (as summarized in a 2024 review)</td><td>60 women, female pattern hair loss</td><td>Randomized; topical pumpkin seed oil vs. 5% minoxidil foam; no placebo</td><td>3 months</td><td>A hair-shaft measure improved in both groups</td></tr>
+<tr><td>Niosome serum study (as summarized in a 2025 review)</td><td>42 people</td><td>Non-randomized; topical serum</td><td>8 weeks</td><td>Changes in shedding reported; no control group described</td></tr>
+<tr><td>Mouse study (as summarized in a 2024 review)</td><td>Mice with testosterone-induced hair loss</td><td>10% pumpkin seed oil vs. 2% minoxidil</td><td>&mdash;</td><td>More hair growth; animal result only</td></tr>
+</table>
+
+<h2>What this means for you</h2>
+<p>Pumpkin seed oil has one small placebo-controlled trial behind it, in men, paid for by the supplement&rsquo;s maker. The one trial in women had no placebo group. <b>For women, the evidence is too thin to say whether it helps.</b> It also doesn&rsquo;t replace finding out why your hair is thinning: low iron, thyroid problems and other medical causes need their own care. Start with our guide to <a href="/hair/female-hair-loss-causes/">the causes of hair loss in women</a> and our explainer on <a href="/hair/iron-ferritin-hair-loss/">iron, ferritin and hair loss</a>.</p>
+<p>Questions to bring to a board-certified dermatologist:</p>
+<ul>
+<li>What type of hair loss do I have, and what&rsquo;s likely causing it?</li>
+<li>Which treatments have FDA approval or trial evidence for my type? (See <a href="/hair/minoxidil-for-women/">minoxidil for women</a> and <a href="/hair/spironolactone-hair-loss-women/">spironolactone</a>.)</li>
+<li>Could a supplement or scalp oil interact with my medications or irritate my skin?</li>
+<li>How long should I give any treatment before judging whether it&rsquo;s working?</li>
+</ul>
+<p>More evidence checks on natural remedies are in our <a href="/hair/">Hair</a> hub, including <a href="/hair/rosemary-oil-hair-growth/">rosemary oil</a> and <a href="/hair/biotin-for-hair/">biotin</a>.</p>""",
+ [("Cho YH, Lee SY, Jeong DW, et al. Effect of Pumpkin Seed Oil on Hair Growth in Men with Androgenetic Alopecia: A Randomized, Double-Blind, Placebo-Controlled Trial. Evid Based Complement Alternat Med, 2014;2014:549721", "https://pmc.ncbi.nlm.nih.gov/articles/PMC4017725/"),
+  ("Alanazi R, et al. Evaluating the Effectiveness of Commercial Oral Supplements for Hair Growth: A Systematic Review and Meta-Analysis. J Cosmet Dermatol, 2026;25:e70817", "https://pmc.ncbi.nlm.nih.gov/articles/PMC13063204/"),
+  ("Zhou L, Zhu W, Chen Y. Effects of dietary supplements on androgenetic alopecia: a systematic review and network meta-analysis. Front Nutr, 2026;12:1719711", "https://pmc.ncbi.nlm.nih.gov/articles/PMC12812558/"),
+  ("Bin Rubaian NF, Alzamami HFA, Amir BA. An Overview of Commonly Used Natural Alternatives for the Treatment of Androgenetic Alopecia, with Special Emphasis on Rosemary Oil. Clin Cosmet Investig Dermatol, 2024;17:2495&ndash;2503", "https://pmc.ncbi.nlm.nih.gov/articles/PMC11549889/"),
+  ("Bikash C. Topical Alternatives for Hair Loss: Beyond the Conventional. Int J Trichology, 2025;17(1):13&ndash;19", "https://pmc.ncbi.nlm.nih.gov/articles/PMC12251978/")]),
+
+
 ]
