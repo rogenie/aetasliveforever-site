@@ -163,5 +163,16 @@
   "live_verified": false,
   "social_caption": true,
   "note": "On schedule. PMC10502763 blocked; same Aleissa 2023 meta-analysis read via the Cureus PDF; JAAD 2021 review failed to load, not cited. Reworded 'blocks androgen effects' to the Kamp review's 'anti-androgen' wording. Live page not yet in search, so not fetched."
+ },
+ {
+  "date": "2026-11-22",
+  "at": "2026-11-22T06:40:00-08:00",
+  "result": "published",
+  "path": "/hair/pumpkin-seed-oil-hair/",
+  "facts_checked": 44,
+  "removed": 4,
+  "live_verified": false,
+  "social_caption": true,
+  "note": "On schedule. Ibrahim 2021 (Wiley) and Verma 2015 comment failed to load; Ibrahim reported only as summarized by Bin Rubaian 2024. PMC10761108, PMC12136554, PMC9412580 and PubMed 35447441 blocked by browser check, not cited. Removed: unconfirmed claim that the Cho capsule had other ingredients, 'FDA-approved' for minoxidil foam (no FDA source opened), mouse-study route, 'less hair fall' wording for the niosome study. Live page not yet in search, so not fetched."
  }
 ]
