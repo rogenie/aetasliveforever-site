@@ -49,6 +49,10 @@ Sections are grouped in the menu as **Body** (Fitness, Meal Plans, Bones & Stren
 - **Meal Plans** (`/meal-plans/`, hub name "Meal Plans"): 7-day plans, recipes and nutrition basics. Every calorie, protein, fiber or nutrient number comes from USDA FoodData Central or another official source opened in the run. Build plans around protein, fiber, plants and calcium. No calorie-restriction targets, weight-loss promises, "detox", cleanses or skipped meals. Give swaps for common allergies and vegetarian eaters.
 - **Health Trackers** (`/health-trackers/`, hub name "Health Trackers"): what to measure (sleep, steps, heart rate, macros, workouts, lab results), how accurate devices and tests are according to validation studies, and what the numbers can and can't tell you. Name a device only when the study tested that device. Never interpret someone's personal results; point to their clinician.
 
+## Human review
+
+The owner's editor, Vita, reviews articles after they publish. The byline shows "Reviewed by Vita" only for paths listed in `_src/reviews.json`. **Scheduled runs never add, edit or remove entries in `_src/reviews.json`, and never write "reviewed" anywhere else in an article.** Only the owner or Vita adds an entry once she has actually reviewed that article.
+
 ## Never
 
 - Say anything "reverses aging", "cures", "prevents" a disease, "detoxes", "boosts immunity", or adds years to your life. Don't use "anti-aging miracle", "secret", "hack", "breakthrough" (unless quoting a headline you're debunking), "guaranteed".

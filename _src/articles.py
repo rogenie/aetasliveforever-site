@@ -14,6 +14,17 @@ EV = {  # evidence label keys -> display text (CSS class = key)
     "review": "Review",
 }
 
+# Human review: an article shows "Reviewed by" ONLY after the reviewer has actually reviewed it.
+# Add {"<article path>": {"date": "YYYY-MM-DD"}} to _src/reviews.json when Vita finishes a review.
+# Scheduled runs must never add entries themselves.
+import json as _json, os as _os
+REVIEWER = "Vita"
+_REVIEWS = _json.load(open(_os.path.join(_os.path.dirname(__file__), "reviews.json"), encoding="utf-8"))
+def _review_line(path):
+    r = _REVIEWS.get(path)
+    if not r: return ""
+    return f' &middot; Reviewed by {REVIEWER}, <a href="/editorial-policy/#review">ÆTAS editor</a>, {_d(r["date"])}'
+
 def share_box(path, h1):
     url = "https://aetasliveforever.com" + path
     u = quote(url, safe=""); t = quote(unescape(h1), safe="")
@@ -48,7 +59,7 @@ def article(path, hub, hub_name, title, h1, desc, published, intro, quick, evide
 <p class="eyebrow"><a href="{hub}">{hub_name}</a></p>
 <h1>{h1}</h1>
 <p class="lede">{intro}</p>
-<p class="byline">By the <a href="/about/">ÆTAS Research Desk</a> &middot; Reviewed by VITA, our <a href="/editorial-policy/#ai">AI editorial reviewer</a> &middot; Checked against sources {_d(published)} &middot; <a href="/editorial-policy/">How we work</a></p>
+<p class="byline">By the <a href="/about/">ÆTAS Research Desk</a>{_review_line(path)} &middot; Checked against sources {_d(published)} &middot; <a href="/editorial-policy/">How we work</a></p>
 </div></section>
 <section><div class="wrap narrow prose">
 <div class="callout quick"><b>Quick answer.</b> {quick}</div>
