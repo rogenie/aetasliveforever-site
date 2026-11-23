@@ -54,7 +54,7 @@ Sections are grouped in the menu as **Body** (Fitness, Meal Plans, Bones & Stren
 Vita, an ÆTAS editor, reviews articles after they publish, in the Google Sheet **"ÆTAS review log"** (id `1uEoGKP2HTAfXta7dP-cnYxG-KyzIA6UlKwy75zGicfI`). Columns: Published | Title | Live link | Status (Approve / Pull) | Note for the publisher | Applied. Articles publish on schedule whether or not she has reviewed them.
 
 **At the start of every run**, read the sheet and apply every row whose Status is filled in and whose Applied cell is empty:
-- **Approve:** add `"<path>": {"date": "<today>"}` to `_src/reviews.json` (the path is the Live link without the domain). The byline then shows "Reviewed by Vita". Set Applied to `<today> approved`.
+- **Approve:** add `"<path>": {"date": "<today>"}` to `_src/reviews.json` (the path is the Live link without the domain). The byline then shows "Reviewed by Vita". If the Note says `Reviewer: <name>`, add `"by": "<name>"` to the entry instead, so the byline names the person who actually reviewed it. Set Applied to `<today> approved`.
 - **Pull:** add the path to `_src/pulled.json`, `git rm -r` the article's folder (e.g. `hair/biotin-for-hair/`) and its `assets/og/<slug>.png`, set the calendar item's status to `pulled` with Vita's note, and set Applied to `<today> pulled`. Don't rewrite or republish a pulled article unless the owner asks.
 - Then run `python3 _src/build.py`, commit `Review sync: <date>` and push, before publishing anything.
 

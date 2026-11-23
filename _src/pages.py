@@ -220,7 +220,7 @@ PAGES = [
 <h2 id="ai">How AI is used</h2>
 <p>Articles are researched and drafted with AI. Before an article publishes, every number, date and study detail it states is checked against the linked source in the same session; claims that can&rsquo;t be confirmed are removed, and an article that can&rsquo;t stand without them is held back. Each article shows the date it was last checked.</p>
 <h2 id="review">Human review</h2>
-<p>After an article goes live, Vita, an ÆTAS editor, reads it against its sources. Once she has, the article shows &ldquo;Reviewed by Vita&rdquo; with the date of her review. Vita is not a doctor, and her review is an editorial check, not medical review.</p>
+<p>After an article goes live, Vita, an ÆTAS editor, reads it against its sources. Once she has, the article shows &ldquo;Reviewed by Vita&rdquo; with the date of her review. Articles published before her reviews began were reviewed by the ÆTAS editorial team and are marked that way. Vita is not a doctor, and her review is an editorial check, not medical review.</p>
 <h2>Corrections</h2>
 <p>When we get something wrong, we fix it, note the change at the bottom of the article, and log it on the <a href="/corrections/">corrections page</a>.</p>
 </div></section>'''},

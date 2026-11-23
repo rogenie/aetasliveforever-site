@@ -22,7 +22,9 @@ _REVIEWS = _json.load(open(_os.path.join(_os.path.dirname(__file__), "reviews.js
 def _review_line(path):
     r = _REVIEWS.get(path)
     if not r: return ""
-    return f' &middot; Reviewed by {REVIEWER}, <a href="/editorial-policy/#review">ÆTAS editor</a>, {_d(r["date"])}'
+    by = r.get("by", REVIEWER)
+    who = f'{by}, <a href="/editorial-policy/#review">ÆTAS editor</a>' if by == REVIEWER else f'<a href="/editorial-policy/#review">{by}</a>'
+    return f' &middot; Reviewed by {who}, {_d(r["date"])}'
 
 def share_box(path, h1):
     url = "https://aetasliveforever.com" + path
