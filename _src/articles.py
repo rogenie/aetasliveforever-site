@@ -15,8 +15,7 @@ EV = {  # evidence label keys -> display text (CSS class = key)
 }
 
 # Human review: an article shows "Reviewed by" ONLY after the reviewer has actually reviewed it.
-# Add {"<article path>": {"date": "YYYY-MM-DD"}} to _src/reviews.json when Vita finishes a review.
-# Scheduled runs must never add entries themselves.
+# Entries come only from rows Vita marked Approve in the "ÆTAS review log" sheet (see PUBLISHING.md, Human review).
 import json as _json, os as _os
 REVIEWER = "Vita"
 _REVIEWS = _json.load(open(_os.path.join(_os.path.dirname(__file__), "reviews.json"), encoding="utf-8"))
@@ -1543,3 +1542,7 @@ article("/hair/pumpkin-seed-oil-hair/", "/hair/", "Hair",
 
 
 ]
+
+# Articles Vita pulled in the review sheet: never built or listed (paths in _src/pulled.json).
+_PULLED = set(_json.load(open(_os.path.join(_os.path.dirname(__file__), "pulled.json"), encoding="utf-8")))
+ARTICLES = [a for a in ARTICLES if a["path"] not in _PULLED]

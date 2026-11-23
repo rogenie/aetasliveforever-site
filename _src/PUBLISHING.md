@@ -49,9 +49,18 @@ Sections are grouped in the menu as **Body** (Fitness, Meal Plans, Bones & Stren
 - **Meal Plans** (`/meal-plans/`, hub name "Meal Plans"): 7-day plans, recipes and nutrition basics. Every calorie, protein, fiber or nutrient number comes from USDA FoodData Central or another official source opened in the run. Build plans around protein, fiber, plants and calcium. No calorie-restriction targets, weight-loss promises, "detox", cleanses or skipped meals. Give swaps for common allergies and vegetarian eaters.
 - **Health Trackers** (`/health-trackers/`, hub name "Health Trackers"): what to measure (sleep, steps, heart rate, macros, workouts, lab results), how accurate devices and tests are according to validation studies, and what the numbers can and can't tell you. Name a device only when the study tested that device. Never interpret someone's personal results; point to their clinician.
 
-## Human review
+## Human review (Vita, via the review sheet)
 
-The owner's editor, Vita, reviews articles after they publish. The byline shows "Reviewed by Vita" only for paths listed in `_src/reviews.json`. **Scheduled runs never add, edit or remove entries in `_src/reviews.json`, and never write "reviewed" anywhere else in an article.** Only the owner or Vita adds an entry once she has actually reviewed that article.
+Vita, an ÆTAS editor, reviews articles after they publish, in the Google Sheet **"ÆTAS review log"** (id `1uEoGKP2HTAfXta7dP-cnYxG-KyzIA6UlKwy75zGicfI`). Columns: Published | Title | Live link | Status (Approve / Pull) | Note for the publisher | Applied. Articles publish on schedule whether or not she has reviewed them.
+
+**At the start of every run**, read the sheet and apply every row whose Status is filled in and whose Applied cell is empty:
+- **Approve:** add `"<path>": {"date": "<today>"}` to `_src/reviews.json` (the path is the Live link without the domain). The byline then shows "Reviewed by Vita". Set Applied to `<today> approved`.
+- **Pull:** add the path to `_src/pulled.json`, `git rm -r` the article's folder (e.g. `hair/biotin-for-hair/`) and its `assets/og/<slug>.png`, set the calendar item's status to `pulled` with Vita's note, and set Applied to `<today> pulled`. Don't rewrite or republish a pulled article unless the owner asks.
+- Then run `python3 _src/build.py`, commit `Review sync: <date>` and push, before publishing anything.
+
+**After publishing**, append one row per new article to the sheet (Published = today, Title, Live link; leave Status, Note and Applied empty).
+
+Never change the Status or Note columns, and never add to `_src/reviews.json` except from an Approve row. A blank Status means not reviewed yet: the article stays live with no review line. If the sheet can't be read, publish as normal and say so in the run summary.
 
 ## Never
 
