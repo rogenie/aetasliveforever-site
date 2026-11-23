@@ -260,11 +260,12 @@
    "hub": "fitness",
    "path": "/fitness/zone-2-cardio-women/",
    "title": "Zone 2 cardio for women: what it is and how much",
-   "status": "todo",
+   "status": "published",
    "kind": "evergreen",
    "brief": {
     "angle": "Define zone 2 (talk test, heart-rate methods), HHS 150-300 min moderate activity guideline, evidence on mitochondrial adaptations in humans, how to fit it in, what's overclaimed."
-   }
+   },
+   "url": "https://aetasliveforever.com/fitness/zone-2-cardio-women/"
   },
   {
    "date": "2026-11-25",

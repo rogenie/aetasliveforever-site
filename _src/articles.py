@@ -1543,6 +1543,93 @@ article("/hair/pumpkin-seed-oil-hair/", "/hair/", "Hair",
   ("Bikash C. Topical Alternatives for Hair Loss: Beyond the Conventional. Int J Trichology, 2025;17(1):13&ndash;19", "https://pmc.ncbi.nlm.nih.gov/articles/PMC12251978/")]),
 
 
+article("/fitness/zone-2-cardio-women/", "/fitness/", "Fitness",
+ "Zone 2 Cardio for Women: What It Is and How Much",
+ "Zone 2 cardio for women: what it is and how much",
+ "What zone 2 cardio means, how to find it with the talk test, how much US guidelines call for, and what research says about mitochondria and the hype.",
+ "2026-11-23",
+ "&ldquo;Zone 2&rdquo; has become the cardio buzzword of the decade, sold as the best way to build your mitochondria and live longer. Here&rsquo;s what it actually means, how much aerobic exercise official guidelines call for, and where the research is more modest than the marketing.",
+ "Zone 2 is steady, easy-to-moderate cardio, roughly a pace where you can still talk but not sing. US guidelines call for 150 to 300 minutes a week of moderate activity (or 75 to 150 of vigorous). <b>Steady cardio does build fitness and mitochondria, but reviews find no proof that zone 2 is the single best intensity; harder efforts and total amount matter too.</b>",
+ "review",
+ [("Best evidence", "A large systematic review and meta-regression of exercise training and muscle mitochondria (353 studies, 5,650 participants in its main models); a 2025 narrative review of zone 2 in <i>Sports Medicine</i>; US Physical Activity Guidelines (2018)"),
+  ("Women included?", "Yes, though the share isn&rsquo;t clear. In the meta-regression, mitochondrial gains didn&rsquo;t differ by sex. A 2025 lab study of how to define zone 2 included 20 women among 50 cyclists"),
+  ("Protocol tested", "Continuous endurance training compared with interval and sprint training, over weeks; zone 2 itself has no single agreed definition"),
+  ("Bottom line", "Steady cardio is a solid way to meet the guidelines. It&rsquo;s not magic, and a mix of easy and harder work is also well supported")],
+ """<h2>What is zone 2 cardio?</h2>
+<p>Exercise physiologists split effort into &ldquo;zones&rdquo; from very easy to all-out. Zone 2 is the second-lowest: steady work just below the point where your body starts relying much more on fast, sugar-burning energy and lactate begins to build up. Scientists call that point the first lactate or ventilatory threshold.</p>
+<p><b>There&rsquo;s no single agreed definition of zone 2.</b> A 2025 lab study in <i>Translational Sports Medicine</i> tested 50 experienced cyclists (30 men and 20 women, average age about 31) and compared several ways of setting zone 2: fixed blood-lactate values, the first ventilatory threshold, the intensity of peak fat burning, a share of peak oxygen use, and a common rule of 72% to 82% of maximum heart rate.</p>
+<ul>
+<li>The methods placed zone 2 at different intensities. On average, the 72% heart-rate cut-off and the point of peak fat burning sat well below the first ventilatory threshold.</li>
+<li>On average, the 82% heart-rate cut-off landed at about the same power output as the ventilatory threshold.</li>
+<li>Women&rsquo;s heart rate at peak fat burning sat at a higher share of their maximum than men&rsquo;s.</li>
+</ul>
+<p>The authors concluded that fixed percentages of maximum heart rate are simple but may not reflect what&rsquo;s happening in your muscles. The study was a one-time snapshot of fit cyclists on a bike, so it doesn&rsquo;t tell us what training at each zone does over time.</p>
+
+<h2>How to find zone 2 without a lab: the talk test</h2>
+<p>Lab tests measure lactate in your blood or the gases you breathe out. At home, the simplest tool is one the CDC already uses for moderate intensity:</p>
+<table>
+<tr><th>Check</th><th>Moderate intensity (close to what most people mean by zone 2)</th><th>Vigorous intensity</th></tr>
+<tr><td>Talk test (CDC)</td><td>You can talk, but not sing</td><td>You can&rsquo;t say more than a few words without pausing for breath</td></tr>
+<tr><td>Effort on a 0&ndash;10 scale (CDC)</td><td>5 or 6</td><td>Starts at 7 or 8</td></tr>
+<tr><td>Examples (CDC and HHS)</td><td>Brisk walking, bicycling under 10 mph on flat ground, water aerobics, doubles tennis</td><td>Jogging or running, swimming laps, bicycling faster than 10 mph, jumping rope</td></tr>
+</table>
+<p>These are general guides, not a precise match for a lab-measured threshold. The CDC also notes that what feels vigorous for one person can be moderate for a fitter one, which is why effort and breathing are useful checks. More on what wearables can and can&rsquo;t measure lives in <a href="/health-trackers/">Health Trackers</a>.</p>
+
+<h2>How much zone 2 cardio do women need?</h2>
+<p>No official guideline uses the term zone 2. The US <i>Physical Activity Guidelines for Americans</i> (2nd edition, 2018, from HHS) give the numbers that matter for adults:</p>
+<ul>
+<li><b>Aerobic:</b> 150 to 300 minutes a week of moderate activity, or 75 to 150 minutes of vigorous activity, or a mix of the two.</li>
+<li><b>Spread it out:</b> preferably across the week.</li>
+<li><b>Muscle-strengthening:</b> moderate or harder work for all major muscle groups on 2 or more days a week.</li>
+<li><b>Some is better than none,</b> and going beyond 300 minutes of moderate activity brings additional health benefits.</li>
+</ul>
+<p>The guidelines count brisk walking at 2.5 to 4 mph as moderate. They also dropped an old rule that activity had to come in bouts of at least 10 minutes, so shorter sessions count.</p>
+
+<h2>Does zone 2 build mitochondria? What human studies show</h2>
+<p>Mitochondria are the parts of your cells that use oxygen to make energy. The main zone 2 claim is that steady, easy cardio is the best way to grow more of them.</p>
+<h3>The big picture from hundreds of studies</h3>
+<p>A large systematic review and meta-regression pooled training studies in human muscle published up to February 2022. Its main mitochondrial analyses covered 353 studies and 5,650 people, from young to over 55, untrained to well-trained, healthy and with conditions such as heart or metabolic disease. It compared continuous endurance training (low to moderate intensity), high-intensity interval training and sprint interval training.</p>
+<table>
+<tr><th>Training type</th><th>Average total training time</th><th>Adjusted rise in mitochondrial markers</th></tr>
+<tr><td>Continuous endurance (low to moderate)</td><td>About 39 hours</td><td>About 23%</td></tr>
+<tr><td>High-intensity intervals</td><td>About 23 hours</td><td>About 27%</td></tr>
+<tr><td>Sprint intervals</td><td>About 8 hours</td><td>About 27%</td></tr>
+</table>
+<ul>
+<li>All three raised mitochondrial markers by similar amounts, but the harder types did it in less total time.</li>
+<li>Bigger gains came with more volume and with higher intensity; the authors judged intensity multiplied by volume (training load) the best predictor.</li>
+<li>People starting out less fit gained more.</li>
+<li><b>The gains didn&rsquo;t differ between women and men, or between younger and older people.</b></li>
+</ul>
+<p>The review didn&rsquo;t test &ldquo;zone 2&rdquo; by name, and it doesn&rsquo;t say what share of participants were women.</p>
+<h3>A review that took on the zone 2 hype</h3>
+<p>A 2025 narrative review in <i>Sports Medicine</i>, titled &ldquo;Much Ado About Zone 2,&rdquo; looked at the case for zone 2 in the general public. Its authors found that the popular advice comes largely from observations of elite endurance athletes, who train for many hours a week and already have very high mitochondrial capacity. They concluded that current evidence doesn&rsquo;t support zone 2 as the best intensity for building mitochondria or fat-burning capacity, and that working above zone 2 matters for heart and metabolic health, especially for people with limited time to train.</p>
+<p>A narrative review is one group&rsquo;s reading of the evidence, not a pooled analysis, so it&rsquo;s best read alongside the larger review above. Both point the same way: <b>steady cardio works, but it isn&rsquo;t uniquely powerful.</b></p>
+
+<h2>What&rsquo;s overclaimed about zone 2</h2>
+<ul>
+<li><b>&ldquo;It&rsquo;s the best intensity for mitochondria.&rdquo;</b> Not shown. Intervals raised mitochondrial markers as much or more in less time.</li>
+<li><b>&ldquo;Your watch knows your zone 2.&rdquo;</b> Fixed heart-rate percentages may not match your own threshold, and in the cyclist study the methods disagreed from person to person.</li>
+<li><b>&ldquo;Zone 2 is a longevity treatment.&rdquo;</b> Fitness is linked to lower death rates in observational studies (see <a href="/fitness/vo2-max-women/">VO2 max for women</a>), but no trial shows that zone 2 in particular lengthens life.</li>
+</ul>
+<p>What zone 2 does have going for it: it&rsquo;s easy to recover from, easy to talk through, and a practical way to build up the minutes the guidelines call for.</p>
+
+<h2>What this means for you</h2>
+<ul class="ticks">
+<li><b>Use the guidelines as your target.</b> 150 to 300 minutes a week of moderate activity, or 75 to 150 vigorous, or a mix.</li>
+<li><b>Use the talk test.</b> If you can talk but not sing, you&rsquo;re in moderate territory, close to what most people call zone 2.</li>
+<li><b>Easy and hard both count.</b> Steady cardio builds fitness; harder intervals are another well-studied option if you have less time. Our <a href="/fitness/vo2-max-women/">VO2 max guide</a> covers interval trials in midlife women.</li>
+<li><b>Keep lifting.</b> Cardio doesn&rsquo;t replace <a href="/bones/strength-training-bone-density-menopause/">strength training for bone and muscle</a> around menopause.</li>
+<li><b>Fit it in.</b> Brisk walks, cycling on flat ground and water aerobics all count, and short sessions add up.</li>
+</ul>
+<p>If you haven&rsquo;t been active, the guidelines advise starting low and going slow. If you have a heart condition, another health condition, an injury or symptoms, or haven&rsquo;t been active, check with your clinician before starting. Find more routines in <a href="/fitness/">Fitness</a> and the basics, including <a href="/foundations/deep-sleep-after-35/">deep sleep after 35</a>, in <a href="/foundations/">Sleep &amp; Foundations</a>.</p>""",
+ [("Effects of Exercise Training on Mitochondrial and Capillary Growth in Human Skeletal Muscle: A Systematic Review and Meta-Regression (DOI 10.1007/s40279-024-02120-2)", "https://link.springer.com/article/10.1007/s40279-024-02120-2"),
+  ("Much Ado About Zone 2: A Narrative Review Assessing the Efficacy of Zone 2 Training for Improving Mitochondrial Capacity and Cardiorespiratory Fitness in the General Population. Sports Medicine, 2025;55(7):1611&ndash;1624", "https://pubmed.ncbi.nlm.nih.gov/40560504/"),
+  ("Meixner B, Filipas L, Holmberg HC, Sperlich B. Zone 2 Intensity: A Critical Comparison of Individual Variability in Different Submaximal Exercise Intensity Boundaries. Translational Sports Medicine, 2025;2025:2008291", "https://europepmc.org/api/getPdf?pmcid=PMC11986187"),
+  ("U.S. Department of Health and Human Services. Physical Activity Guidelines for Americans, 2nd edition, 2018", "https://odphp.health.gov/sites/default/files/2019-09/Physical_Activity_Guidelines_2nd_edition.pdf"),
+  ("Centers for Disease Control and Prevention. How to Measure Physical Activity Intensity", "https://www.cdc.gov/physical-activity-basics/measuring/index.html")]),
+
+
 ]
 
 # Articles Vita pulled in the review sheet: never built or listed (paths in _src/pulled.json).
