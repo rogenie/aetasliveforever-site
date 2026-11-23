@@ -1,6 +1,6 @@
 # ÆTAS publishing runbook
 
-A scheduled run every day (5:59 AM Pacific) follows this file to publish articles on aetasliveforever.com. Publishing is fully automatic by the owner's choice: nothing waits for human review, so every run must pass every check below before anything goes live. When a check fails, the article does not publish.
+A scheduled run three times a week (Mon/Wed/Fri, 5:59 AM Pacific) follows this file to publish articles on aetasliveforever.com. Publishing is fully automatic by the owner's choice: nothing waits for human review, so every run must pass every check below before anything goes live. When a check fails, the article does not publish.
 
 The site: evidence-based longevity science for women roughly 35-50 (the perimenopause decade and just after). Voice: warm, precise, calm. The reader is smart, busy and tired of hype.
 
@@ -9,7 +9,7 @@ The site: evidence-based longevity science for women roughly 35-50 (the perimeno
 1. Get today's date in America/Los_Angeles.
 2. Open `_src/calendar.json` and list every item whose `date` is today **or earlier** and whose status is `todo` or `written`. These are due. Skip `published` and `held`.
    - Nothing due: stop. No commits, no message.
-3. Work through due items oldest first, one at a time: research, write, fact-check, publish, log. A past date means a run was missed; catch it up and say so in the run record's `note`.
+3. Work through due items oldest first, one at a time: research, write, fact-check, publish, log. A past date means a run was missed; catch it up and say so in the run record's `note`. **Never publish more than 2 articles in one run.** If more than 2 are due, publish the 2 oldest, then move every other due item to the next empty Mon/Wed/Fri dates (in order, pushing later items back if needed) and note the move. Publishing many articles at once looks like mass automation to Google.
 4. Add each article to the end of the `ARTICLES` list in `_src/articles.py` with the `article(...)` helper, `published` set to **today's** date (the run date), then follow "Publish". Update the calendar item's `date` to today if it was a catch-up.
 
 Never publish an item dated in the future.

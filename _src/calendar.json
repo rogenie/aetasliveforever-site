@@ -1,5 +1,5 @@
 {
- "cadence": "Daily. Mon/Fri: evergreen and trending articles across Body, Beauty and Longevity. Wed: research news when the scout finds one. Every other day, and any Mon/Wed/Fri left open: a Hair article (_src/TOPICS.md, \"Daily Hair\").",
+ "cadence": "3 a week (Mon/Wed/Fri), owner's choice Nov 2026 while the new domain builds trust. Mon/Fri: Hair (growth focus). Wed: research news when the scout finds one, otherwise an evergreen article from another section.",
  "items": [
   {
    "date": "2026-10-28",
@@ -267,7 +267,7 @@
    }
   },
   {
-   "date": "2026-11-24",
+   "date": "2026-11-25",
    "hub": "hair",
    "path": "/hair/low-level-laser-therapy-hair/",
    "title": "Laser caps and combs (LLLT) for hair loss: do they work?",
@@ -282,7 +282,7 @@
    }
   },
   {
-   "date": "2026-11-25",
+   "date": "2026-11-27",
    "hub": "hair",
    "path": "/hair/prp-hair-loss-women/",
    "title": "PRP for hair loss in women: what studies show",
@@ -297,7 +297,7 @@
    }
   },
   {
-   "date": "2026-11-26",
+   "date": "2026-11-30",
    "hub": "hair",
    "path": "/hair/saw-palmetto-hair-women/",
    "title": "Saw palmetto for women's hair loss: what the evidence says",
@@ -312,7 +312,7 @@
    }
   },
   {
-   "date": "2026-11-27",
+   "date": "2026-12-02",
    "hub": "skin",
    "path": "/skin/collagen-supplements-skin-evidence/",
    "title": "Collagen supplements for skin: what trials show",
@@ -323,7 +323,7 @@
    }
   },
   {
-   "date": "2026-11-28",
+   "date": "2026-12-04",
    "hub": "hair",
    "path": "/hair/vitamin-d-hair-loss/",
    "title": "Vitamin D and hair loss: is there a link?",
@@ -338,7 +338,7 @@
    }
   },
   {
-   "date": "2026-11-29",
+   "date": "2026-12-07",
    "hub": "hair",
    "path": "/hair/peppermint-oil-hair/",
    "title": "Peppermint oil for hair growth: mice, not women",
@@ -353,7 +353,7 @@
    }
   },
   {
-   "date": "2026-11-30",
+   "date": "2026-12-09",
    "hub": "meal-plans",
    "path": "/meal-plans/protein-needs-women-over-40/",
    "title": "Protein for women over 40: how much, from official sources",
@@ -364,7 +364,7 @@
    }
   },
   {
-   "date": "2026-12-01",
+   "date": "2026-12-11",
    "hub": "hair",
    "path": "/hair/caffeine-shampoo-hair-loss/",
    "title": "Caffeine shampoo and hair loss: lab results vs real scalps",
@@ -379,7 +379,7 @@
    }
   },
   {
-   "date": "2026-12-02",
+   "date": "2026-12-14",
    "hub": "hair",
    "path": "/hair/collagen-for-hair/",
    "title": "Collagen supplements for hair: is there any evidence?",
@@ -394,7 +394,7 @@
    }
   },
   {
-   "date": "2026-12-03",
+   "date": "2026-12-16",
    "hub": "hair",
    "path": "/hair/zinc-hair-loss/",
    "title": "Zinc and hair loss: deficiency, testing and too much zinc",
@@ -409,7 +409,7 @@
    }
   },
   {
-   "date": "2026-12-04",
+   "date": "2026-12-18",
    "hub": "procedures",
    "path": "/procedures/microneedling-skin-over-40/",
    "title": "Microneedling for skin over 40: what studies show",
@@ -420,7 +420,7 @@
    }
   },
   {
-   "date": "2026-12-05",
+   "date": "2026-12-21",
    "hub": "hair",
    "path": "/hair/onion-juice-hair/",
    "title": "Onion juice for hair: the small study behind the trend",
@@ -435,7 +435,7 @@
    }
   },
   {
-   "date": "2026-12-06",
+   "date": "2026-12-23",
    "hub": "hair",
    "path": "/hair/omega-3-hair-women/",
    "title": "Omega-3 for hair: what the trials found",
@@ -450,7 +450,7 @@
    }
   },
   {
-   "date": "2026-12-07",
+   "date": "2026-12-25",
    "hub": "health-trackers",
    "path": "/health-trackers/sleep-tracker-accuracy/",
    "title": "Sleep trackers: how accurate are they for deep sleep?",
@@ -461,7 +461,7 @@
    }
   },
   {
-   "date": "2026-12-11",
+   "date": "2026-12-28",
    "hub": "supplements",
    "path": "/supplements/fisetin-senolytics-evidence/",
    "title": "Fisetin and senolytics: where the human evidence stands",
@@ -472,7 +472,7 @@
    }
   },
   {
-   "date": "2026-12-14",
+   "date": "2026-12-30",
    "hub": "skin",
    "path": "/skin/facial-lymphatic-drainage-evidence/",
    "title": "Facial lymphatic drainage: does it work for puffiness and aging?",
@@ -483,7 +483,7 @@
    }
   },
   {
-   "date": "2026-12-18",
+   "date": "2027-01-01",
    "hub": "supplements",
    "path": "/supplements/magnesium-glycinate-vs-threonate/",
    "title": "Magnesium glycinate vs. L-threonate: what the evidence shows",
