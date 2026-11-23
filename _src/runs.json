@@ -174,5 +174,16 @@
   "live_verified": false,
   "social_caption": true,
   "note": "On schedule. Ibrahim 2021 (Wiley) and Verma 2015 comment failed to load; Ibrahim reported only as summarized by Bin Rubaian 2024. PMC10761108, PMC12136554, PMC9412580 and PubMed 35447441 blocked by browser check, not cited. Removed: unconfirmed claim that the Cho capsule had other ingredients, 'FDA-approved' for minoxidil foam (no FDA source opened), mouse-study route, 'less hair fall' wording for the niosome study. Live page not yet in search, so not fetched."
+ },
+ {
+  "date": "2026-11-23",
+  "at": "2026-11-23T06:40:00-08:00",
+  "result": "published",
+  "path": "/fitness/zone-2-cardio-women/",
+  "facts_checked": 38,
+  "removed": 4,
+  "live_verified": false,
+  "social_caption": true,
+  "note": "On schedule. Review sheet: nothing new to apply. PMC11787188/PubMed 39390310 blocked by browser check; same meta-regression read on Springer (authors/journal not visible, cited by title and DOI). Much Ado About Zone 2 read as PubMed abstract only. Removed: CDC target-heart-rate numbers (not on page opened), Bland-Altman watt limits and sex-specific VO2max gains (summary-only, not verbatim), journal name for the meta-regression. Live page not yet in search, so not fetched."
  }
 ]
