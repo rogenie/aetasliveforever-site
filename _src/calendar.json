@@ -272,7 +272,7 @@
    "hub": "hair",
    "path": "/hair/low-level-laser-therapy-hair/",
    "title": "Laser caps and combs (LLLT) for hair loss: do they work?",
-   "status": "todo",
+   "status": "published",
    "kind": "evergreen",
    "brief": {
     "angle": "FDA clearance status of low-level laser devices for hair (510(k), what clearance means), the sham-controlled trials in women, reviews and meta-analyses, realistic results and time frame, eye safety. No brand recommendations.",
@@ -280,7 +280,8 @@
      "/hair/",
      "/hair/female-hair-loss-causes/"
     ]
-   }
+   },
+   "url": "https://aetasliveforever.com/hair/low-level-laser-therapy-hair/"
   },
   {
    "date": "2026-11-27",

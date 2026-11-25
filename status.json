@@ -1,5 +1,5 @@
 {
- "built": "2026-11-23",
+ "built": "2026-11-25",
  "cadence": "3 a week (Mon/Wed/Fri), owner's choice Nov 2026 while the new domain builds trust. Mon/Fri: Hair (growth focus). Wed: research news when the scout finds one, otherwise an evergreen article from another section.",
  "items": [
   {
@@ -138,7 +138,9 @@
   {
    "date": "2026-11-25",
    "hub": "hair",
-   "status": "todo"
+   "status": "written",
+   "title": "Laser caps and combs (LLLT) for hair loss: do they work?",
+   "url": "https://aetasliveforever.com/hair/low-level-laser-therapy-hair/"
   },
   {
    "date": "2026-11-27",

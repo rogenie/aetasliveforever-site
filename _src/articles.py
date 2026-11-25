@@ -1629,6 +1629,91 @@ article("/fitness/zone-2-cardio-women/", "/fitness/", "Fitness",
   ("U.S. Department of Health and Human Services. Physical Activity Guidelines for Americans, 2nd edition, 2018", "https://odphp.health.gov/sites/default/files/2019-09/Physical_Activity_Guidelines_2nd_edition.pdf"),
   ("Centers for Disease Control and Prevention. How to Measure Physical Activity Intensity", "https://www.cdc.gov/physical-activity-basics/measuring/index.html")]),
 
+article("/hair/low-level-laser-therapy-hair/", "/hair/", "Hair",
+ "Laser Caps and Combs (LLLT) for Hair Loss: Do They Work?",
+ "Laser caps and combs (LLLT) for hair loss: do they work?",
+ "Do laser caps and combs regrow hair in women? What sham-controlled trials found, what FDA clearance really means, and the eye-safety basics.",
+ "2026-11-25",
+ "Laser combs, caps and helmets promise thicker hair from a few minutes of red light a week. They&rsquo;re sold for home use and often advertised as &ldquo;FDA-cleared.&rdquo; Here&rsquo;s what the trials in women found, and what that label does and doesn&rsquo;t mean.",
+ "In sham-controlled trials, women with pattern thinning who used a red-light laser comb for 26 weeks gained more hairs per square centimeter than women using a look-alike sham device, and a 2021 meta-analysis of seven randomized trials also favored the lasers. <b>The evidence is real but modest, mostly short-term and largely tied to device makers, and FDA clearance is not proof that a device works.</b>",
+ "human-trial",
+ [("Best evidence", "Two randomized, double-blind, sham-controlled trials in women (published together in 2014, 141 women randomized), plus a 2021 meta-analysis of 7 randomized trials in men and women"),
+  ("Women included?", "Yes. The 2014 paper ran two trials only in women aged roughly 25 to 61 with female pattern hair loss; 94.7% of all participants were white"),
+  ("Dose or protocol tested", "A red-light laser comb (655 nm) used 8 to 11 minutes per session, three times a week, for 26 weeks"),
+  ("Bottom line", "A reasonable, low-risk option to ask a dermatologist about for pattern thinning. Expect small gains over months, not a transformation, and know that most devices were cleared without their own clinical trials")],
+ """<h2>What is low-level laser therapy for hair?</h2>
+<p>Low-level laser therapy (LLLT), also called photobiomodulation, shines low-power red light on the scalp. Home devices come as handheld combs, headbands, caps and helmets. Some use laser diodes, some use LEDs, and some mix both.</p>
+<p>These devices are meant for <b>androgenetic alopecia</b>, the gradual pattern thinning known in women as female pattern hair loss. They aren&rsquo;t cleared for other kinds of hair loss. If you&rsquo;re not sure which you have, start with <a href="/hair/female-hair-loss-causes/">the main causes of hair loss in women</a>.</p>
+
+<h2>What does &ldquo;FDA-cleared&rdquo; mean for a laser cap?</h2>
+<p>Home hair lasers reach the market through the FDA&rsquo;s 510(k) pathway. Under 510(k), a company shows that its device is <i>substantially equivalent</i> to a device already legally sold: the same intended use, and either the same technology or different technology that doesn&rsquo;t raise new safety and effectiveness questions. The FDA then &ldquo;clears&rdquo; it.</p>
+<p>That&rsquo;s different from <b>premarket approval</b> (PMA), the FDA&rsquo;s strictest route, used for high-risk Class III devices. PMA requires enough valid scientific evidence that the device is safe and effective. For a 510(k), the FDA says performance data <i>can</i> include clinical data, but bench testing is also accepted.</p>
+<p>The public 510(k) summaries for hair lasers show how this works in practice:</p>
+<table>
+<tr><th>FDA file</th><th>Device type</th><th>Cleared for</th><th>Clinical study in the summary?</th></tr>
+<tr><td>K112524 (2011)</td><td>Laser comb, 7 or 12 beams</td><td>Women with pattern hair loss (Ludwig-Savin I-4, II-1, II-2 or frontal), skin types I to IV</td><td>No. Nonclinical and performance testing, compared with an earlier comb</td></tr>
+<tr><td>K132646 (2013)</td><td>Stationary laser hood, 650 nm</td><td>Men and women with pattern hair loss, skin types I to IV</td><td>No. Performance and electrical safety testing</td></tr>
+<tr><td>K230134 (2023)</td><td>Laser comb, 650 nm</td><td>Men and women with pattern hair loss, skin types I to IV</td><td>No. Safety, electrical and laser-class testing, compared with earlier combs</td></tr>
+</table>
+<p>All three are Class II devices under the FDA&rsquo;s infrared lamp regulation. <b>A newer cap can be cleared because it resembles an older comb, without ever being tested on a single scalp.</b> &ldquo;FDA-cleared&rdquo; tells you the device met the bar for its class, not that the brand in your cart was shown to grow hair.</p>
+<p>Note the skin-type limit, too. The clearances cover Fitzpatrick skin types I to IV, which leaves out darker skin types above IV.</p>
+
+<h2>Do laser combs work for women? The sham-controlled trials</h2>
+<p>The key trials in women were published in 2014 in the <i>American Journal of Clinical Dermatology</i> (Jimenez et al.). The paper reported four randomized, double-blind trials: two in women and two in men.</p>
+<ul>
+<li><b>Who:</b> 141 women with female pattern hair loss were randomized across the two women&rsquo;s trials. Ages across the study ran from 25 to 61, and 94.7% of participants were white.</li>
+<li><b>Design:</b> Women used either a laser comb or a sham device that looked the same but gave off ordinary white light. Neither they nor the researchers knew which.</li>
+<li><b>Protocol:</b> A 9-beam comb (655 nm, 11 minutes) or a 12-beam comb (635 and 655 nm, 8 minutes), three times a week for 26 weeks.</li>
+<li><b>Measured:</b> The change in terminal (full-thickness) hairs per square centimeter in a small marked patch of scalp, counted from photos by an evaluator who didn&rsquo;t know the group.</li>
+</ul>
+<table>
+<tr><th>Women&rsquo;s trial</th><th>Laser comb: hairs gained per cm&sup2;</th><th>Sham: hairs gained per cm&sup2;</th></tr>
+<tr><td>9-beam comb</td><td>20.2</td><td>2.8</td></tr>
+<tr><td>12-beam comb</td><td>20.6</td><td>3.0</td></tr>
+</table>
+<p>Both differences were statistically significant (p &lt; 0.0001). No serious side effects were reported with the comb in any of the four trials.</p>
+<p><b>Limits worth knowing:</b> the trials lasted six months, so they don&rsquo;t show whether gains hold or what happens if you stop. They tested one company&rsquo;s combs (made by Lexington International, maker of the HairMax), and the paper describes the trials as run under that company&rsquo;s clinical-study procedures. A gain of about 20 hairs per square centimeter is measurable in a photo; whether you&rsquo;d notice it in the mirror is a separate question.</p>
+
+<h2>What the meta-analysis of laser hair devices found</h2>
+<p>A 2021 systematic review and meta-analysis in the <i>Journal of Clinical and Aesthetic Dermatology</i> (Lueangarun et al.) pooled seven double-blind, randomized, sham-controlled trials of home-use devices.</p>
+<ul>
+<li>Overall, the devices beat sham for hair growth, with a standardized mean difference of 1.27 (95% confidence interval 0.993 to 1.639). That&rsquo;s a statistical measure of effect size, not a hair count.</li>
+<li>Benefits showed up in both men and women, and with both combs and helmets.</li>
+<li>Devices using laser diodes alone did better (1.52) than those mixing lasers with LEDs (0.85).</li>
+<li>The authors called LLLT &ldquo;potentially effective&rdquo; and asked for longer follow-up and head-to-head comparisons of devices.</li>
+</ul>
+<p>The review counted 32 home-use devices in the FDA&rsquo;s 510(k) database as of January 2020, far more than have been tested in trials. (Its title calls them &ldquo;FDA-approved,&rdquo; but the database it searched is for clearances.)</p>
+
+<h2>Are laser caps safe for your eyes and scalp?</h2>
+<p>The comb cleared in 2023 lists its lasers as Class 3R. The FDA groups that class with laser pointers and says it can be momentarily hazardous when viewed directly. The agency&rsquo;s general rule: <b>never look directly into any laser beam.</b> Follow the device&rsquo;s own instructions.</p>
+<p>In the 2014 trials, no serious side effects were reported. If your scalp is irritated, broken or sun-damaged, ask a clinician before using any device on it.</p>
+
+<h2>The honest bottom line</h2>
+<ul class="ticks">
+<li><b>Get the cause right first.</b> Lasers are cleared for pattern thinning. Low iron, thyroid problems and shedding after illness need different steps; see <a href="/hair/iron-ferritin-hair-loss/">iron, ferritin and hair loss</a> and <a href="/hair/thyroid-hair-loss/">thyroid and hair loss</a>.</li>
+<li><b>The trials in women were positive but modest,</b> short, and tied to device makers.</li>
+<li><b>Cleared isn&rsquo;t proven.</b> Most cleared devices were never tested in their own trial.</li>
+<li><b>It&rsquo;s a months-long commitment.</b> The women&rsquo;s trials ran 26 weeks of sessions three times a week.</li>
+<li><b>Compare options.</b> Ask about medicines too; see <a href="/hair/minoxidil-for-women/">minoxidil for women</a>. For red light on skin, see <a href="/skin/red-light-therapy-skin-over-40/">red light therapy for skin over 40</a>, and for an in-office option, <a href="/hair/prp-hair-loss-women/">PRP for hair loss in women</a>.</li>
+</ul>
+<h3>Questions to ask a board-certified dermatologist</h3>
+<ul>
+<li>Is my thinning female pattern hair loss, or something else?</li>
+<li>Would a light device make sense for me alongside or instead of minoxidil?</li>
+<li>Has the device I&rsquo;m considering been tested in a trial, or only cleared by equivalence?</li>
+<li>How and when should we judge whether it&rsquo;s working?</li>
+<li>Does my skin type fall within what the device was cleared for?</li>
+</ul>
+<p>More on thinning, shedding and treatments in <a href="/hair/">Hair</a>.</p>""",
+ [("Jimenez JJ, Wikramanayake TC, Bergfeld W, et al. Efficacy and Safety of a Low-level Laser Device in the Treatment of Male and Female Pattern Hair Loss: A Multicenter, Randomized, Sham Device-controlled, Double-blind Study. American Journal of Clinical Dermatology, 2014;15(2):115&ndash;127", "https://pmc.ncbi.nlm.nih.gov/articles/PMC3986893/"),
+  ("Lueangarun S, Visutjindaporn P, Parcharoen Y, Jamparuang P, Tempark T. A Systematic Review and Meta-analysis of Randomized Controlled Trials of United States Food and Drug Administration-Approved, Home-use, Low-Level Light/Laser Therapy Devices for Pattern Hair Loss. Journal of Clinical and Aesthetic Dermatology, 2021;14(11):E64&ndash;E75", "https://pmc.ncbi.nlm.nih.gov/articles/PMC8675345/"),
+  ("U.S. Food and Drug Administration. Premarket Notification 510(k)", "https://www.fda.gov/medical-devices/premarket-submissions-selecting-and-preparing-correct-submission/premarket-notification-510k"),
+  ("U.S. Food and Drug Administration. Premarket Approval (PMA)", "https://www.fda.gov/medical-devices/premarket-submissions-selecting-and-preparing-correct-submission/premarket-approval-pma"),
+  ("U.S. Food and Drug Administration. 510(k) summary K112524 (laser comb, 2011)", "https://www.accessdata.fda.gov/cdrh_docs/pdf11/K112524.pdf"),
+  ("U.S. Food and Drug Administration. 510(k) summary K132646 (laser hood, 2013)", "https://www.accessdata.fda.gov/cdrh_docs/pdf13/k132646.pdf"),
+  ("U.S. Food and Drug Administration. 510(k) summary K230134 (laser comb, 2023)", "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K230134.pdf"),
+  ("U.S. Food and Drug Administration. Frequently Asked Questions About Lasers", "https://www.fda.gov/radiation-emitting-products/laser-products-and-instruments/frequently-asked-questions-about-lasers")]),
+
 
 ]
 
