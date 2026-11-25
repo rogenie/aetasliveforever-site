@@ -410,6 +410,17 @@
    "live_verified": false,
    "social_caption": true,
    "note": "On schedule. Review sheet: nothing new to apply. PMC11787188/PubMed 39390310 blocked by browser check; same meta-regression read on Springer (authors/journal not visible, cited by title and DOI). Much Ado About Zone 2 read as PubMed abstract only. Removed: CDC target-heart-rate numbers (not on page opened), Bland-Altman watt limits and sex-specific VO2max gains (summary-only, not verbatim), journal name for the meta-regression. Live page not yet in search, so not fetched."
+  },
+  {
+   "date": "2026-11-25",
+   "at": "2026-11-25T06:40:00-08:00",
+   "result": "published",
+   "path": "/hair/low-level-laser-therapy-hair/",
+   "facts_checked": 34,
+   "removed": 7,
+   "live_verified": false,
+   "social_caption": true,
+   "note": "On schedule. Review sheet: nothing new to apply. Jimenez 2014 (PMC3986893) and Lueangarun 2021 (PMC8675345) read partly verbatim; FDA 510(k)/PMA pages, three 510(k) summaries and FDA laser FAQ read. Friedman 2017, Lanzafame 2014, Thai 2018 trial and PMC8918178 not openable (empty page, Wiley error, rate limit, browser check), so not cited. Removed: categorical responder rates, device-related AE percentages, Lexington funding details (summary-only), meta-analysis subgroup SMDs by sex/device and I2 (summary-only), minoxidil FDA-approval line, hairline description, child-safety line. Live page not yet in search, so not fetched."
   }
  ]
 }
