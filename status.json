@@ -423,6 +423,17 @@
    "live_verified": false,
    "social_caption": true,
    "note": "On schedule. Review sheet: nothing new to apply. Jimenez 2014 (PMC3986893) and Lueangarun 2021 (PMC8675345) read partly verbatim; FDA 510(k)/PMA pages, three 510(k) summaries and FDA laser FAQ read. Friedman 2017, Lanzafame 2014, Thai 2018 trial and PMC8918178 not openable (empty page, Wiley error, rate limit, browser check), so not cited. Removed: categorical responder rates, device-related AE percentages, Lexington funding details (summary-only), meta-analysis subgroup SMDs by sex/device and I2 (summary-only), minoxidil FDA-approval line, hairline description, child-safety line. Live page not yet in search, so not fetched."
+  },
+  {
+   "date": "2026-11-27",
+   "at": "2026-11-27T06:35:00-08:00",
+   "result": "published",
+   "path": "/hair/prp-hair-loss-women/",
+   "facts_checked": 41,
+   "removed": 6,
+   "live_verified": false,
+   "social_caption": true,
+   "note": "On schedule. Review sheet: nothing new to apply. Yuan 2024 (PMC11342464), Zhou 2021 (PMC8204330), Paichitrojjana 2022 (PMC8922312) read; Dubin 2020 read as ScienceDirect abstract; FDA 510(k) summaries BK230807/BK241083 read. PubMed 27608205/32649961 browser check, LWW Tawfik and JAAD adverse-effects pages refused, so not cited. Removed: Yuan pooled density MD and trim-and-fill values (implausible scale), Zhou pooled ORs (internally inconsistent), Zhou session/needle/AE figures (summary-only), Dubin age range (not visible), 'Stevens' maintenance schedule, FDA classification page (mismatched). Live page not yet in search, so not fetched."
   }
  ]
 }
