@@ -1715,6 +1715,91 @@ article("/hair/low-level-laser-therapy-hair/", "/hair/", "Hair",
   ("U.S. Food and Drug Administration. Frequently Asked Questions About Lasers", "https://www.fda.gov/radiation-emitting-products/laser-products-and-instruments/frequently-asked-questions-about-lasers")]),
 
 
+article("/hair/prp-hair-loss-women/", "/hair/", "Hair",
+ "PRP for Hair Loss in Women: What Studies Show",
+ "PRP for hair loss in women: what studies show",
+ "Does PRP work for thinning hair in women? What randomized trials and reviews found, why protocols vary, side effects, and FDA status.",
+ "2026-11-27",
+ "Platelet-rich plasma, or PRP, uses a concentrate of your own blood, injected into the scalp, to try to thicken thinning hair. It&rsquo;s offered in many dermatology and aesthetics offices. Here&rsquo;s what the trials in women found, and what they still can&rsquo;t tell you.",
+ "In randomized trials in women, PRP injections usually improved hair density and thickness compared with a control over about six months, and side effects were mild and short-lived. <b>But the studies are small, short, use very different recipes, and PRP isn&rsquo;t FDA-approved for hair loss, so how much it helps, and for how long, is still uncertain.</b>",
+ "human-trial",
+ [("Best evidence", "A 2024 systematic review and meta-analysis of 21 studies (20 randomized) in 628 women with hair loss, plus a 2020 placebo-controlled randomized trial in 30 women with pattern hair loss"),
+  ("Women included?", "Yes. The 2024 review included only women. Most of its studies were in chronic telogen effluvium (12) or androgenetic alopecia (6); only 3 were labeled female pattern hair loss"),
+  ("Dose or protocol tested", "Mostly monthly scalp injections. The 2020 trial gave three sessions, at weeks 0, 4 and 8, and followed women to week 24. Preparation methods varied widely between studies"),
+  ("Bottom line", "A possible option to discuss with a board-certified dermatologist, with real but uncertain benefit. There&rsquo;s no standard protocol and almost no data beyond six months")],
+ """<h2>What is PRP for hair loss?</h2>
+<p>PRP stands for platelet-rich plasma. Platelets are the blood cells best known for clotting, and they also carry growth factors. A 2022 review in <i>Drug Design, Development and Therapy</i> describes the basic process:</p>
+<ul>
+<li>A small amount of your blood (about 10 to 60 mL) is drawn into a tube with an anticoagulant.</li>
+<li>The tube is spun in a centrifuge, which separates red cells at the bottom, a platelet-rich layer in the middle and platelet-poor plasma on top.</li>
+<li>The platelet-rich layer is injected into the thinning areas of the scalp. Some clinics add an &ldquo;activator&rdquo; first; the review says there&rsquo;s no consensus on whether that&rsquo;s needed.</li>
+</ul>
+<p>The same review says the exact way PRP might act on hair follicles is still not fully worked out.</p>
+
+<h2>Does PRP work for hair loss in women? The randomized trial</h2>
+<p>One of the clearest single studies is a 2020 randomized controlled trial in the <i>Journal of the American Academy of Dermatology</i> (Dubin et al.).</p>
+<ul>
+<li><b>Who:</b> 30 women with androgenetic alopecia (pattern thinning). Ages weren&rsquo;t given in the abstract we could open.</li>
+<li><b>Design:</b> 15 women got PRP and 15 got saline (salt-water) injections, assigned at random. Photos were judged by assessors who didn&rsquo;t know the group.</li>
+<li><b>How long:</b> Injections at weeks 0, 4 and 8, with follow-up to week 24. Two women were lost to follow-up.</li>
+<li><b>Measured:</b> Hair density (hairs per square centimeter), hair caliber (thickness) and overall photo improvement.</li>
+</ul>
+<table>
+<tr><th>At week 24</th><th>PRP</th><th>Saline</th></tr>
+<tr><td>Change in hair density</td><td>+105.9 hairs/cm&sup2;</td><td>&minus;52.4 hairs/cm&sup2;</td></tr>
+<tr><td>Change in hair caliber</td><td>+0.0053 mm</td><td>&minus;0.0060 mm</td></tr>
+<tr><td>Improved on blinded photo review</td><td>57%</td><td>7%</td></tr>
+</table>
+<p>All three differences were statistically significant (P &lt; .01). <b>The trial was supported by the company that makes the PRP system it tested,</b> and it lasted six months, so it can&rsquo;t say whether the gains hold.</p>
+
+<h2>What reviews of PRP for female hair loss found</h2>
+<p>A 2024 systematic review and meta-analysis in <i>Skin Research and Technology</i> (Yuan, He et al.) pooled 21 studies in 628 women, published from 2015 to 2023. Twenty were randomized; the comparison was another treatment or the other half of the scalp.</p>
+<ul>
+<li><b>Hair density and thickness:</b> both improved more with PRP than with the comparison. But results differed so much from study to study (a heterogeneity measure, I&sup2;, of 99% for density and 97% for thickness) that <b>the true size of the benefit is hard to pin down.</b></li>
+<li><b>Hair count:</b> in the two studies that measured it, PRP didn&rsquo;t significantly raise total hair count.</li>
+<li><b>Publication bias:</b> statistical tests suggested smaller negative studies may be missing, which tends to inflate pooled results.</li>
+<li><b>Who was studied:</b> 13 of the 21 studies came from Egypt, and the authors note results looked stronger there, possibly because so many studies came from one country.</li>
+<li><b>How long:</b> 20 of the 21 studies followed women for six months or less.</li>
+</ul>
+<p>The review reported no funding and no conflicts of interest. Its authors list high heterogeneity, publication bias, no long-term follow-up and varied PRP methods as limits.</p>
+<p>An earlier 2021 review in <i>Frontiers in Pharmacology</i> (Zhou et al.) looked at 42 studies with 776 women, of which 16 were randomized and 26 observational. Only 7 studies included women alone. Its conclusion: standardized protocols and large randomized trials are still needed to confirm that PRP works.</p>
+
+<h2>Why PRP protocols vary so much</h2>
+<p>&ldquo;PRP&rdquo; isn&rsquo;t one fixed treatment. Across the studies in the 2021 review, the platelet concentration ranged from about 1.5 to 7 times that of whole blood, and centrifuge speeds, spin times and activators all differed. The 2022 review says there&rsquo;s no standard practice for preparing PRP, giving it, or measuring results.</p>
+<p>That matters for you: <b>a positive trial of one clinic&rsquo;s method doesn&rsquo;t mean another clinic&rsquo;s PRP will perform the same way.</b> Most trials used monthly sessions, but schedules varied, and none settles how often or for how long PRP should be repeated.</p>
+
+<h2>Is PRP FDA-approved for hair loss?</h2>
+<p>No. According to the 2022 review, both the machines that separate platelets and the use of the PRP product fall under FDA regulation, and any use of PRP other than blood transfusion is <b>off-label</b>. Off-label use isn&rsquo;t prohibited when a physician does it as part of medical practice.</p>
+<p>PRP preparation devices reach the market through the FDA&rsquo;s 510(k) clearance pathway. The two recent 510(k) summaries we opened describe PRP systems cleared for preparing PRP to mix with bone graft material in bone and orthopedic procedures. Neither mentions hair.</p>
+
+<h2>PRP side effects and who should avoid it</h2>
+<p>In the 2024 review, reported side effects included headache, scalp tightness, swelling, redness, bleeding after injection and tingling. The authors describe them as mild and gone within 24 hours. Pain or discomfort was no more common with PRP than with the comparison treatments, in the three studies that measured it.</p>
+<p>The 2022 review lists situations where PRP shouldn&rsquo;t be used, including very low platelet counts, platelet disorders, infection at the injection site and sepsis. It also lists cautions such as recent NSAID pain relievers, recent steroid treatment, anemia, recent illness or fever, some cancers, and tobacco use. Your dermatologist should review your health history and medications before any injection.</p>
+
+<h2>What this means for you</h2>
+<ul class="ticks">
+<li><b>Find the cause first.</b> PRP was mostly studied in pattern thinning and chronic shedding. Low iron or thyroid problems need different steps; see <a href="/hair/female-hair-loss-causes/">the main causes of hair loss in women</a> and <a href="/hair/telogen-effluvium/">telogen effluvium</a>.</li>
+<li><b>The evidence leans positive but is shaky.</b> Small, short trials, widely varying methods and signs of publication bias.</li>
+<li><b>It&rsquo;s off-label,</b> and there&rsquo;s almost no data past six months.</li>
+<li><b>Compare options.</b> Treatments with FDA approval or larger trials include <a href="/hair/minoxidil-for-women/">minoxidil</a>; see also <a href="/hair/spironolactone-hair-loss-women/">spironolactone</a> and <a href="/hair/low-level-laser-therapy-hair/">laser caps and combs</a>.</li>
+</ul>
+<h3>Questions to ask a board-certified dermatologist</h3>
+<ul>
+<li>What type of hair loss do I have, and was PRP studied in it?</li>
+<li>How is your PRP prepared, and has that method been tested in a trial?</li>
+<li>How many sessions would you suggest, and how will we measure whether it&rsquo;s working?</li>
+<li>What happens if I stop? Would I need ongoing sessions?</li>
+<li>Do my health conditions or medications make PRP a poor fit?</li>
+<li>How does PRP compare with minoxidil or other options for me?</li>
+</ul>
+<p>More on thinning, shedding and treatments in <a href="/hair/">Hair</a>.</p>""",
+ [("Yuan J, He Y, Wan H, Gao Y. Effectiveness of platelet-rich plasma in treating female hair loss: A systematic review and meta-analysis of randomized controlled trials. Skin Research and Technology, 2024;30(8):e70004", "https://pmc.ncbi.nlm.nih.gov/articles/PMC11342464/"),
+  ("Dubin DP, et al. The effect of platelet-rich plasma on female androgenetic alopecia: A randomized controlled trial. Journal of the American Academy of Dermatology, 2020;83(5):1294&ndash;1297", "https://www.sciencedirect.com/science/article/abs/pii/S0190962220321642"),
+  ("Zhou S, Qi F, Gong Y, et al. Platelet-Rich Plasma in Female Androgenic Alopecia: A Comprehensive Systematic Review and Meta-Analysis. Frontiers in Pharmacology, 2021;12:642980", "https://pmc.ncbi.nlm.nih.gov/articles/PMC8204330/"),
+  ("Paichitrojjana A, Paichitrojjana A. Platelet Rich Plasma and Its Use in Hair Regrowth: A Review. Drug Design, Development and Therapy, 2022;16:635&ndash;645", "https://pmc.ncbi.nlm.nih.gov/articles/PMC8922312/"),
+  ("U.S. Food and Drug Administration. 510(k) summary BK230807 (platelet and plasma separator for bone graft handling)", "https://www.fda.gov/files/vaccines,%20blood%20&%20biologics/published/BK230807-Summary.pdf"),
+  ("U.S. Food and Drug Administration. 510(k) summary BK241083 (PRP device for bone graft handling)", "https://www.fda.gov/files/vaccines,%20blood%20&%20biologics/published/bk241083-summary.pdf")]),
+
 ]
 
 # Articles Vita pulled in the review sheet: never built or listed (paths in _src/pulled.json).
